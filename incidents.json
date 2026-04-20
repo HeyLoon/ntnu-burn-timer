@@ -2,7 +2,7 @@
   "last_incident": "2026-03-25T23:00:00+08:00",
   "last_incident_title": "中一中宿舍暴動",
   "auto_updated": false,
-  "last_updated": "2026-04-20T19:38:49.836553+08:00",
+  "last_updated": "2026-04-20T23:00:40.755990+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -223,5 +223,13 @@
       ]
     }
   ],
-  "recent_news": []
+  "recent_news": [
+    {
+      "date": "2026-04-12",
+      "title": "讀《寫給每個人的社會學讀本》：特權該從何說起？有「霹靂力矩」是我的錯嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PMjBjTXpDbGxmRHBJQ05HQko1NVh4anR0dEpObVVKek45blE3eEZMZHJ0UVZ2cTZKUHg0dWxqZlN4WWIyY1diQUgxSXVsY2xoTG5EYw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    }
+  ]
 }
