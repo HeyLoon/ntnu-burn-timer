@@ -72,7 +72,7 @@ GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GIT
 ```
 ├── index.html               # 前端頁面（從 incidents.json 動態載入資料）
 ├── incidents.json           # 資料來源：事件紀錄 + 自動抓取的新聞
-├── icon.png.                # 前端頁面中校徽的圖片
+├── icon.png                 # 前端頁面中校徽的圖片
 ├── scripts/
 │   └── fetch_news.py        # 新聞抓取腳本
 ├── .github/
