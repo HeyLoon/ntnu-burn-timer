@@ -2,7 +2,7 @@
   "last_incident": "2026-03-25T23:00:00+08:00",
   "last_incident_title": "中一中宿舍暴動",
   "auto_updated": false,
-  "last_updated": "2026-04-20T11:05:17.654998+08:00",
+  "last_updated": "2026-04-20T19:38:49.836553+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -95,5 +95,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recent_news": []
 }
