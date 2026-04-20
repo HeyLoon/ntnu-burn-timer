@@ -90,32 +90,24 @@
         #fff;
     }
 
-    /* ── school emblem SVG ── */
+    /* ── school emblem (使用 icon.png) ── */
     .emblem-wrap {
       margin-top: 1.2rem;
       display: flex;
       justify-content: center;
-      margin-bottom: .6rem;
+      margin-bottom: 1rem;
     }
 
-    .emblem {
-      width: 64px;
-      height: 64px;
-      background: var(--red);
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 3px solid var(--red-deep);
-      box-shadow: 0 4px 18px rgba(200,16,46,.25), 0 0 0 6px rgba(200,16,46,.08);
+    .school-emblem {
+      width: 96px;
+      height: 96px;
+      object-fit: contain;
+      filter: drop-shadow(0 8px 20px rgba(200, 16, 46, 0.28));
+      transition: transform 0.4s ease;
     }
 
-    .emblem span {
-      font-family: 'Noto Sans TC', sans-serif;
-      font-weight: 900;
-      font-size: 1.5rem;
-      color: #fff;
-      line-height: 1;
+    .school-emblem:hover {
+      transform: scale(1.06) rotate(2deg);
     }
 
     /* ── header ── */
@@ -537,6 +529,7 @@
       .timer-row { gap: .2rem; }
       .info-strip { flex-direction: column; gap: 1rem; }
       .search-grid { grid-template-columns: 1fr; }
+      .school-emblem { width: 78px; height: 78px; }
     }
   </style>
 </head>
@@ -549,13 +542,13 @@
   <div class="top-stripe"></div>
 
   <div class="page">
-    <!-- Header -->
+    <!-- Header with school emblem -->
     <div class="emblem-wrap">
-      <div class="emblem"><span>一</span></div>
+      <img src="icon.png" alt="台中一中校徽" class="school-emblem">
     </div>
 
     <div class="header">
-      <div class="school-badge">TCFSH Incident Tracker v1.0</div>
+      <div class="school-badge">TCFSH INCIDENT TRACKER v1.0</div>
       <div class="main-title">一中已經有</div>
       <div class="subtitle">台中市立台中第一高級中學 · 炎上事件距今計時</div>
     </div>
