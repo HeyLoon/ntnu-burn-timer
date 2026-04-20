@@ -1,0 +1,67 @@
+{
+  "last_incident": "2023-04-29T10:00:00+08:00",
+  "last_incident_title": "中一中宿舍暴動",
+  "auto_updated": false,
+  "last_updated": "2026-04-20T11:05:17.654998+08:00",
+  "incidents": [
+    {
+      "date": "2023-04-29",
+      "title": "中一中烯環鈉海報爭議",
+      "desc": "中一中園遊會「烯環鈉」攤位涉歧視原住民 校方致歉願受懲處",
+      "sources": [
+        {
+          "label": "公視",
+          "url": "https://news.pts.org.tw/article/635045",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://udn.com/news/story/6885/7139175",
+          "type": "news"
+        },
+        {
+          "label": "風傳媒",
+          "url": "https://www.storm.mg/article/4786376",
+          "type": "news"
+        },
+        {
+          "label": "自由時報",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/4288928",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-11",
+      "title": "臺中一中音樂科呂老師情緒失控",
+      "desc": "中一中師生衝突互嗆 音樂老師願意道歉",
+      "sources": [
+        {
+          "label": "@TCFSH生活",
+          "url": "https://www.youtube.com/watch?v=0Ko_0aBhGmA",
+          "type": "youtube"
+        },
+        {
+          "label": "公視",
+          "url": "https://news.pts.org.tw/article/571947",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://udn.com/news/story/6885/7139175",
+          "type": "news"
+        },
+        {
+          "label": "中時新聞網",
+          "url": "https://www.chinatimes.com/realtimenews/20220312003332-260405?chdtv",
+          "type": "news"
+        },
+        {
+          "label": "自由時報",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/3859218",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

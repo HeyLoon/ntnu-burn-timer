@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>一中炎上計時器</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+TC:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --bg: #ffffff;
+      --surface: #fafafa;
+      --surface2: #f2f2f2;
+      --border: #e0e0e0;
+      --red: #c8102e;        /* 台中一中亮紅 */
+      --red-deep: #9b0b22;
+      --red-light: #f5c6ce;
+      --red-ultra: #ff1a3a;
+      --text: #1a1a1a;
+      --text-inv: #ffffff;
+      --muted: #888888;
+      --muted2: #bbbbbb;
+      --green: #1a8c4e;
+      --amber: #b85c00;
+      --amber-bg: #fff3e0;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Noto Sans TC', sans-serif;
+      overflow-x: hidden;
+    }
+
+    /* ── top status bar ── */
+    .status-bar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 40px;
+      background: var(--red);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: .2em;
+      color: rgba(255,255,255,.95);
+      z-index: 50;
+      border-bottom: 3px solid var(--red-deep);
+    }
+
+    .status-bar .dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: #fff;
+      animation: blink 1.2s step-end infinite;
+    }
+
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+    /* ── decorative top stripe ── */
+    .top-stripe {
+      position: fixed;
+      top: 40px; left: 0; right: 0;
+      height: 4px;
+      background: repeating-linear-gradient(
+        90deg,
+        var(--red) 0px, var(--red) 20px,
+        #fff 20px, #fff 22px
+      );
+      z-index: 49;
+    }
+
+    /* ── layout ── */
+    .page {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3.5rem 1.5rem 4rem;
+      position: relative;
+      background:
+        radial-gradient(ellipse 60% 40% at 50% 0%, rgba(200,16,46,0.06) 0%, transparent 70%),
+        #fff;
+    }
+
+    /* ── school emblem SVG ── */
+    .emblem-wrap {
+      margin-top: 1.2rem;
+      display: flex;
+      justify-content: center;
+      margin-bottom: .6rem;
+    }
+
+    .emblem {
+      width: 64px;
+      height: 64px;
+      background: var(--red);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 3px solid var(--red-deep);
+      box-shadow: 0 4px 18px rgba(200,16,46,.25), 0 0 0 6px rgba(200,16,46,.08);
+    }
+
+    .emblem span {
+      font-family: 'Noto Sans TC', sans-serif;
+      font-weight: 900;
+      font-size: 1.5rem;
+      color: #fff;
+      line-height: 1;
+    }
+
+    /* ── header ── */
+    .header {
+      text-align: center;
+      margin-bottom: 2.4rem;
+    }
+
+    .school-badge {
+      display: inline-block;
+      background: var(--red);
+      color: #fff;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: .25em;
+      padding: .3rem 1rem;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 100%, 8px 100%);
+    }
+
+    .main-title {
+      font-family: 'Bebas Neue', 'Noto Sans TC', sans-serif;
+      font-size: clamp(1.8rem, 5vw, 3.2rem);
+      letter-spacing: .08em;
+      color: var(--text);
+      line-height: 1.1;
+    }
+
+    .main-title span { color: var(--red); }
+
+    .subtitle {
+      margin-top: .8rem;
+      font-size: .8rem;
+      color: var(--muted);
+      letter-spacing: .06em;
+    }
+
+    /* ── main counter panel ── */
+    .panel {
+      background: #fff;
+      border: 2px solid var(--red);
+      width: 100%;
+      max-width: 780px;
+      padding: 2.5rem 2rem;
+      position: relative;
+      box-shadow:
+        6px 6px 0 var(--red-light),
+        0 16px 48px rgba(200,16,46,.1);
+    }
+
+    .panel::before {
+      content: 'INCIDENT FREE COUNTER';
+      position: absolute;
+      top: -11px;
+      left: 2rem;
+      background: #fff;
+      padding: 0 .7rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .58rem;
+      letter-spacing: .22em;
+      color: var(--red);
+    }
+
+    /* ── corner decorations ── */
+    .panel .corner {
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      border-color: var(--red);
+      border-style: solid;
+    }
+    .panel .corner.tl { top: -2px; left: -2px; border-width: 3px 0 0 3px; }
+    .panel .corner.tr { top: -2px; right: -2px; border-width: 3px 3px 0 0; }
+    .panel .corner.bl { bottom: -2px; left: -2px; border-width: 0 0 3px 3px; }
+    .panel .corner.br { bottom: -2px; right: -2px; border-width: 0 3px 3px 0; }
+
+    /* ── timer digits ── */
+    .timer-row {
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      gap: .5rem;
+    }
+
+    .unit-block {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: .35rem;
+    }
+
+    .digit {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(1.8rem, 7vw, 5rem);
+      line-height: 1;
+      color: var(--red);
+      background: #fff;
+      border: 2px solid var(--red);
+      padding: .1em .28em;
+      min-width: 2ch;
+      text-align: center;
+      position: relative;
+      box-shadow: 3px 3px 0 var(--red-light);
+      transition: color .2s;
+    }
+
+    .digit::after {
+      content: '';
+      position: absolute;
+      left: 0; right: 0;
+      top: 50%; bottom: 0;
+      background: rgba(200,16,46,.04);
+      pointer-events: none;
+    }
+
+    .unit-label {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .62rem;
+      letter-spacing: .22em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+
+    .sep {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(1.4rem, 5vw, 3.8rem);
+      color: var(--red-light);
+      line-height: 1;
+      padding-bottom: .35em;
+      user-select: none;
+    }
+
+    /* ── tick flash ── */
+    .tick-flash { animation: flash .12s ease-out; }
+    @keyframes flash {
+      0% { color: var(--red-ultra); box-shadow: 3px 3px 0 var(--red-light), 0 0 20px rgba(255,26,58,.3); }
+      100% { color: var(--red); box-shadow: 3px 3px 0 var(--red-light); }
+    }
+
+    /* ── total seconds ── */
+    .total-seconds {
+      text-align: center;
+      margin-top: 1.4rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .72rem;
+      letter-spacing: .15em;
+      color: var(--muted);
+    }
+
+    .total-seconds span { color: var(--red); font-weight: 700; }
+
+    /* ── info strip ── */
+    .info-strip {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 1.8rem;
+      padding-top: 1.2rem;
+      border-top: 1px solid var(--border);
+      flex-wrap: wrap;
+      gap: .8rem;
+    }
+
+    .info-item { display: flex; flex-direction: column; gap: .25rem; }
+
+    .info-label {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .58rem;
+      letter-spacing: .2em;
+      color: var(--muted);
+    }
+
+    .info-value { font-size: .88rem; font-weight: 700; color: var(--text); }
+    .info-value.danger { color: var(--red); }
+    .info-value.safe { color: var(--green); }
+    .info-value.warning { color: var(--amber); }
+
+    /* ── subtitle label ── */
+    .no-incident-label {
+      width: 100%;
+      max-width: 780px;
+      text-align: right;
+      margin-top: .9rem;
+    }
+
+    .no-incident-label span {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(1.6rem, 4.5vw, 2.6rem);
+      letter-spacing: .07em;
+      color: var(--text);
+    }
+
+    .no-incident-label span em { color: var(--red); font-style: normal; }
+
+    /* ── section headers ── */
+    .section-wrap { width: 100%; max-width: 780px; margin-top: 2.2rem; }
+
+    .log-header {
+      display: flex;
+      align-items: center;
+      gap: .7rem;
+      margin-bottom: 1rem;
+    }
+
+    .log-title {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .63rem;
+      letter-spacing: .25em;
+      color: var(--red);
+      white-space: nowrap;
+    }
+
+    .log-line { flex: 1; height: 1px; background: var(--red-light); }
+
+    /* ── search grid ── */
+    .search-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: .6rem;
+    }
+
+    .search-card {
+      display: flex;
+      flex-direction: column;
+      gap: .35rem;
+      padding: .85rem 1rem;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--red-light);
+      text-decoration: none;
+      transition: border-color .2s, box-shadow .2s, background .2s;
+    }
+
+    .search-card:hover {
+      border-left-color: var(--red);
+      background: #fff9f9;
+      box-shadow: 3px 3px 0 var(--red-light);
+    }
+
+    .search-card-label {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .56rem;
+      letter-spacing: .2em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+
+    .search-card-title { font-size: .82rem; font-weight: 700; color: var(--red); }
+
+    .search-card-query {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .68rem;
+      color: var(--muted2);
+    }
+
+    .search-note {
+      margin-top: .75rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .6rem;
+      letter-spacing: .08em;
+      color: var(--muted);
+      padding: .6rem .8rem;
+      border: 1px dashed var(--border);
+      background: #fafafa;
+    }
+
+    .search-note strong { color: var(--red); }
+
+    /* ── incident log ── */
+    .log-entry {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: .9rem 1rem;
+      border-left: 3px solid var(--red-light);
+      background: #fff;
+      border-top: 1px solid var(--border);
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: .5rem;
+      transition: border-left-color .2s, box-shadow .2s;
+      cursor: default;
+    }
+
+    .log-entry:hover {
+      border-left-color: var(--red);
+      box-shadow: 3px 3px 0 var(--red-light);
+    }
+
+    .log-entry:first-of-type .log-entry-date::after {
+      content: ' ← 最近';
+      color: var(--red);
+      font-size: .68rem;
+    }
+
+    .log-entry-date {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .72rem;
+      color: var(--amber);
+      white-space: nowrap;
+      min-width: 90px;
+      padding-top: .1rem;
+    }
+
+    .log-entry-body { flex: 1; min-width: 0; }
+
+    .log-entry-desc { font-size: .82rem; color: #555; line-height: 1.55; }
+
+    .log-entry-sources {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .35rem;
+      margin-top: .55rem;
+    }
+
+    .log-src {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .6rem;
+      letter-spacing: .08em;
+      color: var(--muted);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: .18rem .55rem;
+      text-decoration: none;
+      transition: color .15s, border-color .15s;
+      white-space: nowrap;
+    }
+
+    .log-src:hover { color: var(--red); border-color: var(--red-light); }
+    .log-src.threads { border-left: 2px solid var(--muted2); }
+    .log-src.threads:hover { border-left-color: var(--red); }
+
+    /* ── recent news ── */
+    .news-entry {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: .65rem 1rem;
+      border-left: 2px solid var(--border);
+      background: #fff;
+      border-top: 1px solid #f0f0f0;
+      margin-bottom: .25rem;
+      transition: border-left-color .2s;
+    }
+
+    .news-entry:hover { border-left-color: var(--muted2); }
+
+    .news-entry-date {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .65rem;
+      color: var(--muted2);
+      white-space: nowrap;
+      min-width: 90px;
+      padding-top: .05rem;
+    }
+
+    .news-entry-title {
+      font-size: .78rem;
+      color: #999;
+      text-decoration: none;
+      line-height: 1.4;
+      display: block;
+      transition: color .15s;
+    }
+
+    .news-entry-title:hover { color: var(--red); }
+
+    .news-entry-source {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .58rem;
+      color: var(--muted2);
+      margin-top: .15rem;
+    }
+
+    .auto-badge {
+      background: var(--red-light);
+      color: var(--red);
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .52rem;
+      letter-spacing: .1em;
+      padding: .15rem .45rem;
+      margin-left: .4rem;
+      vertical-align: middle;
+    }
+
+    .log-empty {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .62rem;
+      color: var(--muted2);
+      padding: .8rem 1rem;
+      border: 1px dashed var(--border);
+      text-align: center;
+    }
+
+    /* ── footer ── */
+    .footer {
+      margin-top: 3rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: .58rem;
+      letter-spacing: .1em;
+      color: var(--muted2);
+      text-align: center;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      width: 100%;
+      max-width: 780px;
+    }
+
+    /* ── red bottom bar ── */
+    .bottom-bar {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      height: 5px;
+      background: var(--red);
+    }
+
+    @media (max-width: 480px) {
+      .timer-row { gap: .2rem; }
+      .info-strip { flex-direction: column; gap: 1rem; }
+      .search-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="status-bar">
+    <div class="dot"></div>
+    <span>台中市立台中第一高級中學炎上事件監控系統 — 即時計時中</span>
+    <div class="dot"></div>
+  </div>
+  <div class="top-stripe"></div>
+
+  <div class="page">
+    <!-- Header -->
+    <div class="emblem-wrap">
+      <div class="emblem"><span>一</span></div>
+    </div>
+
+    <div class="header">
+      <div class="school-badge">TCFSH Incident Tracker v1.0</div>
+      <div class="main-title">一中已經有</div>
+      <div class="subtitle">台中市立台中第一高級中學 · 炎上事件距今計時</div>
+    </div>
+
+    <!-- Main panel -->
+    <div class="panel">
+      <div class="corner tl"></div>
+      <div class="corner tr"></div>
+      <div class="corner bl"></div>
+      <div class="corner br"></div>
+
+      <div class="timer-row">
+        <div class="unit-block">
+          <div class="digit" id="days">000</div>
+          <div class="unit-label">天</div>
+        </div>
+        <div class="sep">:</div>
+        <div class="unit-block">
+          <div class="digit" id="hours">00</div>
+          <div class="unit-label">時</div>
+        </div>
+        <div class="sep">:</div>
+        <div class="unit-block">
+          <div class="digit" id="minutes">00</div>
+          <div class="unit-label">分</div>
+        </div>
+        <div class="sep">:</div>
+        <div class="unit-block">
+          <div class="digit" id="seconds">00</div>
+          <div class="unit-label">秒</div>
+        </div>
+      </div>
+
+      <div class="total-seconds" id="totalSec">
+        共計 <span id="totalSecNum">0</span> 秒沒有出事
+      </div>
+
+      <div class="info-strip">
+        <div class="info-item">
+          <div class="info-label">上次炎上日期</div>
+          <div class="info-value danger" id="lastDate">—</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">上次事件</div>
+          <div class="info-value" id="lastEvent">載入中…</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">目前狀態</div>
+          <div class="info-value safe" id="statusText">✓ 平安無事</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Subtitle label -->
+    <div class="no-incident-label">
+      <span>沒有被 <em>炎上</em> 了</span>
+    </div>
+
+    <!-- Search sources -->
+    <div class="section-wrap">
+      <div class="log-header">
+        <span class="log-title">SEARCH SOURCES — 炎上偵測來源</span>
+        <div class="log-line"></div>
+      </div>
+
+      <div class="search-grid">
+        <a class="search-card"
+           href="https://www.threads.net/search?q=%E4%B8%80%E4%B8%AD%E7%82%8E%E4%B8%8A"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">Threads</span>
+          <span class="search-card-title">一中炎上</span>
+          <span class="search-card-query">threads.net › 一中炎上</span>
+        </a>
+        <a class="search-card"
+           href="https://www.threads.net/search?q=%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD+%E7%88%AD%E8%AD%B0"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">Threads</span>
+          <span class="search-card-title">台中一中 爭議</span>
+          <span class="search-card-query">threads.net › 台中一中 爭議</span>
+        </a>
+        <a class="search-card"
+           href="https://www.threads.net/search?q=%E4%B8%80%E4%B8%AD%E7%94%9F+%E6%89%B9%E8%A9%95"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">Threads</span>
+          <span class="search-card-title">一中生 批評</span>
+          <span class="search-card-query">threads.net › 一中生 批評</span>
+        </a>
+        <a class="search-card"
+           href="https://news.google.com/search?q=%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD+%E7%82%8E%E4%B8%8A&hl=zh-TW"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">Google 新聞</span>
+          <span class="search-card-title">台中一中 炎上</span>
+          <span class="search-card-query">news.google.com › 台中一中 炎上</span>
+        </a>
+        <a class="search-card"
+           href="https://news.google.com/search?q=%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD+%E7%88%AD%E8%AD%B0&hl=zh-TW"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">Google 新聞</span>
+          <span class="search-card-title">台中一中 爭議</span>
+          <span class="search-card-query">news.google.com › 台中一中 爭議</span>
+        </a>
+        <a class="search-card"
+           href="https://www.ptt.cc/bbs/search?q=%E5%8F%B0%E4%B8%AD%E4%B8%80%E4%B8%AD"
+           target="_blank" rel="noopener">
+          <span class="search-card-label">PTT</span>
+          <span class="search-card-title">台中一中</span>
+          <span class="search-card-query">ptt.cc › 台中一中</span>
+        </a>
+      </div>
+
+      <div class="search-note">
+        <strong>使用說明：</strong>
+        若以上搜尋出現新的炎上事件，請更新 <code>incidents.json</code> 中的 <code>last_incident</code> 日期及事件紀錄，
+        以 Threads 與新聞雙重比對確認事件時間點。
+      </div>
+    </div>
+
+    <!-- Incident log -->
+    <div class="section-wrap">
+      <div class="log-header">
+        <span class="log-title">INCIDENT LOG — 歷史事件紀錄</span>
+        <div class="log-line"></div>
+      </div>
+      <div id="incident-log-entries">
+        <div class="log-empty">載入中…</div>
+      </div>
+    </div>
+
+    <!-- Auto-detected recent news -->
+    <div class="section-wrap" id="news-section">
+      <div class="log-header">
+        <span class="log-title">RECENT SIGNALS — 自動偵測新聞</span>
+        <div class="log-line"></div>
+      </div>
+      <div id="recent-news-list">
+        <div class="log-empty">尚無自動偵測到的新聞，待 GitHub Actions 每日執行後更新</div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      資料來源：Google News RSS、Threads 搜尋連結、各大網路媒體｜本站僅作幽默統計用途<br>
+      本站架設於 GitHub Pages｜計時以台灣時區（UTC+8）為準<br>
+      新聞自動更新時間：<span id="last-updated">—</span>
+    </div>
+  </div>
+
+  <div class="bottom-bar"></div>
+
+  <script>
+    // ── Timer ────────────────────────────────────────────────────────────────
+    let LAST_INCIDENT = new Date('2024-01-01T00:00:00+08:00').getTime();
+
+    const $days        = document.getElementById('days');
+    const $hours       = document.getElementById('hours');
+    const $minutes     = document.getElementById('minutes');
+    const $seconds     = document.getElementById('seconds');
+    const $totalSecNum = document.getElementById('totalSecNum');
+    const $status      = document.getElementById('statusText');
+
+    function pad(n, len = 2) { return String(n).padStart(len, '0'); }
+
+    let prevSec = -1;
+    function update() {
+      const diff = Math.max(0, Math.floor((Date.now() - LAST_INCIDENT) / 1000));
+      const days = Math.floor(diff / 86400);
+      $days.textContent    = pad(days, 3);
+      $hours.textContent   = pad(Math.floor((diff % 86400) / 3600));
+      $minutes.textContent = pad(Math.floor((diff % 3600) / 60));
+      const secs = diff % 60;
+      $seconds.textContent = pad(secs);
+      if (secs !== prevSec) {
+        $seconds.classList.remove('tick-flash');
+        void $seconds.offsetWidth;
+        $seconds.classList.add('tick-flash');
+        prevSec = secs;
+      }
+      $totalSecNum.textContent = diff.toLocaleString('zh-TW');
+
+      if (days <= 3) {
+        $status.className = 'info-value danger';
+        $status.textContent = '🔥 炎上中！';
+      } else if (days <= 14) {
+        $status.className = 'info-value warning';
+        $status.textContent = '△ 餘波盪漾';
+      } else {
+        $status.className = 'info-value safe';
+        $status.textContent = '✓ 平安無事';
+      }
+    }
+
+    // ── Render: incident log ─────────────────────────────────────────────────
+    function renderIncidents(incidents) {
+      const el = document.getElementById('incident-log-entries');
+      if (!incidents || !incidents.length) {
+        el.innerHTML = '<div class="log-empty">尚無事件紀錄</div>';
+        return;
+      }
+      const sorted = [...incidents].sort((a, b) => b.date.localeCompare(a.date));
+      el.innerHTML = sorted.map(inc => {
+        const srcs = (inc.sources || []).map(s =>
+          `<a class="log-src${s.type === 'threads' ? ' threads' : ''}"
+              href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
+        ).join('');
+        return `
+          <div class="log-entry">
+            <div class="log-entry-date">${inc.date}</div>
+            <div class="log-entry-body">
+              <div class="log-entry-desc">${inc.desc}</div>
+              ${srcs ? `<div class="log-entry-sources">${srcs}</div>` : ''}
+            </div>
+          </div>`;
+      }).join('');
+    }
+
+    // ── Render: auto-detected news ───────────────────────────────────────────
+    function renderRecentNews(items) {
+      const el = document.getElementById('recent-news-list');
+      if (!items || !items.length) {
+        el.innerHTML = '<div class="log-empty">尚無自動偵測到的新聞，待 GitHub Actions 每日執行後更新</div>';
+        return;
+      }
+      el.innerHTML = items.slice(0, 30).map(item => `
+        <div class="news-entry">
+          <div class="news-entry-date">${item.date}</div>
+          <div>
+            <a class="news-entry-title" href="${item.url}" target="_blank" rel="noopener">${item.title}</a>
+            <div class="news-entry-source">
+              ${item.source}${item.high_confidence ? ' <span class="auto-badge">INCIDENT</span>' : ''}
+            </div>
+          </div>
+        </div>`
+      ).join('');
+    }
+
+    // ── Load incidents.json ──────────────────────────────────────────────────
+    async function loadData() {
+      try {
+        const res = await fetch('incidents.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        LAST_INCIDENT = new Date(data.last_incident).getTime();
+
+        document.getElementById('lastDate').textContent = data.last_incident.slice(0, 10);
+        const sortedInc = [...(data.incidents || [])].sort((a, b) => b.date.localeCompare(a.date));
+        if (sortedInc.length) {
+          document.getElementById('lastEvent').textContent = sortedInc[0].title;
+        }
+
+        renderIncidents(data.incidents || []);
+        renderRecentNews(data.recent_news || []);
+
+        if (data.last_updated) {
+          document.getElementById('last-updated').textContent =
+            data.last_updated.slice(0, 16).replace('T', ' ') + ' (台灣時間)';
+        }
+      } catch (e) {
+        console.warn('incidents.json 載入失敗', e);
+        renderIncidents([]);
+        renderRecentNews([]);
+      }
+    }
+
+    update();
+    setInterval(update, 500);
+    loadData();
+  </script>
+</body>
+</html>
