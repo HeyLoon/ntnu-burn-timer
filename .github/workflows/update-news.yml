@@ -1,0 +1,34 @@
+name: Daily News Fetch
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 每天 UTC 02:00 = 台灣時間 10:00
+  workflow_dispatch:        # 允許手動觸發
+
+permissions:
+  contents: write           # 讓 Action 能 commit 回 repo
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetcher
+        run: python scripts/fetch_news.py
+
+      - name: Commit updated incidents.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add incidents.json
+          git diff --cached --quiet || git commit -m "chore: auto-update incidents.json [skip ci]"
+          git push
