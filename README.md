@@ -22,7 +22,7 @@
 ```
 每天 10:00（台灣時間）
   └─ GitHub Actions 執行 scripts/fetch_news.py
-       ├─ 搜尋 Google News RSS（建中炎上、建中批評、privilege…等 10 組查詢）
+       ├─ 搜尋 Google News RSS（一中炎上、一中批評、privilege…等 10 組查詢）
        ├─ 過濾含關鍵字的文章，寫入 incidents.json → recent_news
        └─ 偵測到「炎上／道歉／撤展」等高信心度關鍵字
             └─ 自動更新 last_incident 日期，網頁計時器重置
