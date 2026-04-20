@@ -172,13 +172,25 @@
       ]
     },
     {
-      "date": "2010-10-08",
-      "title": "監察院通過糾正台中一中",
-      "desc": "監察院通過糾正台中一中關於校園露鳥猥褻案冷處理行為",
+      "date": "2012-11-23",
+      "title": "監察院通過糾正台中一中2",
+      "desc": "投機違法取得明星學校學籍　監察院糾正教育部、臺南一中、臺中一中",
       "sources": [
         {
           "label": "監察院",
-          "url": "https://www.cy.gov.tw/message_message/21554/%E6%96%B0%E8%81%9E%E7%A8%BF2.pdf",
+          "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=6294",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-08",
+      "title": "監察院通過糾正台中一中1",
+      "desc": "臺中一中男學生性騷擾女教師案 學校處置失當 監察院糾正",
+      "sources": [
+        {
+          "label": "監察院",
+          "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=5628",
           "type": "news"
         }
       ]
