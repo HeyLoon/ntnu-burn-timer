@@ -4,7 +4,7 @@
 
 專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer)
 
-**[→ 線上版本](https://yukicon0321.github.io/tcfsh-burn-timer/)**
+**[→ 線上版本](https://mura-0721.github.io/tcfsh-burn-timer/)**
 
 ---
 
