@@ -64,6 +64,28 @@
       ]
     },
     {
+      "date": "2024-05-20",
+      "title": "中一中畢旅承辦老師不當發言",
+      "desc": "一中女老師針對台中女中畢旅性騷擾事件，在行前說明會失言稱「不聽話才被喇（嘴）」，遭學生團體譴責，隨後道歉。",
+      "sources": [
+        {
+          "label": "臺中青諮會",
+          "url": "https://youth.taichung.gov.tw/DraftResolution/Detail/c0c3a1e2-0f8d-42c7-98fa-b50fffa605f2",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://udn.com/news/story/6898/7976900",
+          "type": "news"
+        },
+        {
+          "label": "台中女中學生會",
+          "url": "https://www.facebook.com/share/p/18WULY32ek/",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "date": "2023-04-29",
       "title": "中一中烯環鈉海報爭議",
       "desc": "中一中園遊會「烯環鈉」攤位涉歧視原住民",
@@ -167,6 +189,11 @@
         {
           "label": "關鍵評論網",
           "url": "https://www.thenewslens.com/article/47837",
+          "type": "news"
+        },
+        {
+          "label": "想想論壇",
+          "url": "https://www.thinkingtaiwan.net/content/5711",
           "type": "news"
         }
       ]
