@@ -1,9 +1,41 @@
 {
-  "last_incident": "2023-04-29T10:00:00+08:00",
+  "last_incident": "2026-03-25T23:00:00+08:00",
   "last_incident_title": "中一中宿舍暴動",
   "auto_updated": false,
-  "last_updated": "2026-04-20T19:30:25.213729+08:00",
+  "last_updated": "2026-04-20T11:05:17.654998+08:00",
   "incidents": [
+    {
+      "date": "2026-03-25",
+      "title": "中一中舍幹暴動",
+      "desc": "中一中舍幹廣播開嗆遭炎上！「起床號歌單」曝光 網看傻：難怪被罵",
+      "sources": [
+        {
+          "label": "Threads @wei______yz",
+          "url": "https://www.threads.com/@wei______yz/post/DWUAWrmk5hh?xmt=AQF0hGwOKMq3dp-sI-fs1LtPOlnXzu-JzHDYXmdQ3EY-aw",
+          "type": "threads"
+        },
+        {
+          "label": "Threads @tcfsh_news",
+          "url": "https://www.threads.com/@tcfsh_news/post/DWUCuJImUy2?xmt=AQF0hGwOKMq3dp-sI-fs1LtPOlnXzu-JzHDYXmdQ3EY-aw",
+          "type": "threads"
+        },
+        {
+          "label": "Yahoo新聞",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD-%E4%B8%AD%E8%88%8D%E5%B9%B9%E5%BB%A3%E6%92%AD%E9%96%8B%E5%97%86%E9%81%AD%E7%82%8E%E4%B8%8A-%E8%B5%B7%E5%BA%8A%E8%99%9F%E6%AD%8C%E5%96%AE-%E6%9B%9D%E5%85%89-%E7%B6%B2%E7%9C%8B%E5%82%BB-001100788.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMWxJJ6sU2q3NDOavakmS1bG0KE4idbLhYIYIfvw9wYRh2WUABfx05ztvjU02a7wlzX15xIMs-6Judddu__vVJuJliVk-NVH9vEiBiQcQKg4Wilq9Rz9xc1QGyERLrW6LbMZuQjo4BUthK7S4Pw3O3FqYbl99sg5MhIAyBWjKNCj",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://udn.com/news/story/6898/9403699",
+          "type": "news"
+        },
+        {
+          "label": "自由時報",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5383044",
+          "type": "news"
+        }
+      ]
+    },
     {
       "date": "2023-04-29",
       "title": "中一中烯環鈉海報爭議",
@@ -63,6 +95,5 @@
         }
       ]
     }
-  ],
-  "recent_news": []
+  ]
 }
