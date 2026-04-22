@@ -1,33 +1,11 @@
 {
   "last_incident": "2026-04-22T00:00:00+08:00",
-  "last_incident_title": "台師大女足抽血案延燒（道歉信與處置爭議）",
+  "last_incident_title": "體操隊教練霸凌案與性平爭議",
   "auto_updated": false,
   "last_updated": "2026-04-22T10:19:10.816195+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
-      "title": "台師大女足抽血案延燒",
-      "desc": "女足隊抽血爭議持續擴大，教練道歉信與校方處置內容再度引發輿論批評與討論。",
-      "sources": [
-        {
-          "label": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPaUFNMzBUUGkxNHlWUk9ZVUhwZEFmY1RSNlBQRzMzcUFhNnNaVjk5UnpSZVJmTTFQSE1fR1RWNng1NXo4dU9lYi15N0JGTVlQOEQ1bHBKM1Y0cDRaaXhYVnlBdTd1R1BSSzdiMEFmV3FzLXFSQjRybGV3em9iUlBZNzZZNzVFRGxVaGJpcExWZmFFOXBuWFROX2FlMkFJWmFXaWVGV2JWYjJVdUxZc01WMThTUkFaOGxwcE9JblF2Znd4T0FLQlpzMWo4TlR3UEl0R2N2d2h6RjJqTTdDYWlqbWpUQmZFRzFOeWlHWFA1TWJ4VU93Nl9VbzBtaWlpT2VJb01MWUxVWjF0ckd0SW9rd2VfTm43VFFodTlES0prZS1VQlp6aUJobjVoUHhqclktT3EzT1FOaTByNk9EN0RLSGQxRUMxZ2hpZ1RXZkFNbjcxc1psWkZQOW1yYmtRMWZ5WXV1cEJJMmh4MnRwUnl3YXFvQ1lSeGt5REtsbU5rRkFiWWxYbmxGZ1RpWXZ0bFdwdTJJUS1DNDcxV2lYQkNHWW92OHNuTkpyTmI0eTBhdEdZeW0zZUk1TkVlTjlWTjFqeTlwNThsal9pY3YwcUtQemZNRklMQjNTZlF1V21WVW9hamM1UU41NTF6VUVQTWFSN203cEV1MktBakZKNUliaHVJbzk2Nmwxa3pCcmU0ZzFjV2pYVmVZN0dJRnNOQQ?oc=5",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbzVxdy1RZkFWZGIySHhpUkczYjBDVGMyRmdkLU9Kd0JnQlljUml0ZXdDdnFtcV9MdHFGQVlQTjBQdEhvajZEWENDZ3g5cDJ1MGN30gFYQVVfeXFMT2lWb19uem96RWttV1loU2dFenhtQjFzVV9NeVRQOGJZY21GcGFyTm1XRlZQWHJpSEdNc0p4YTdrM0JDc0JCXzM3cXFRNFhyRFZTUGJJaHhndg?oc=5",
-          "type": "news"
-        },
-        {
-          "label": "Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-21",
       "title": "台師大體操隊霸凌、性平爭議",
       "desc": "體操隊教練遭控霸凌與性平爭議，台師大公布停聘與相關處置後，事件持續受到社會關注。",
       "sources": [
@@ -44,6 +22,28 @@
         {
           "label": "Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMHF2LUVqV0IzOWZwNndVZklTY3lOOGhmOS15dUpmT1JueURLUW5PS1JwUnowR3d5aUZvNFc2WHRKUEhkVm51ZWxoaHNSanR5RnlOREZaa3FhNkhFSHdPQ3o5OFpXOWlCUEJOVHo2cl80OURmMm5LRFREUUgxN2JlRXZjRXR2QlV6cmZZcDVsNzY1bHZRZEltemg0eXVNWG5RaS12MURUVlUyV0U0dGZZd0l3MHdFTVQ5c1JaNDZVbzFIcGloeUc2TlMtenM5Q0QyLWJGeG4tbS1XM1NIWFAxbkEzdEZrSm1GQkVvQVYzN1I0cE5XbkNSMnF1QXNCTUJzbzM3LXhVQm0yYlEyQ05IUjFlLTRNUHQ5SW1vd0tfTHhIZDM4dTEwZmMyYmZwMjBzYWlIX3M2XzB0R29fQ1RQZEU2VlhVamNxSy0xOFlod2ZkUEE?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "title": "台師大女足抽血案延燒",
+      "desc": "女足隊抽血爭議持續擴大，教練道歉信與校方處置內容再度引發輿論批評與討論。",
+      "sources": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPaUFNMzBUUGkxNHlWUk9ZVUhwZEFmY1RSNlBQRzMzcUFhNnNaVjk5UnpSZVJmTTFQSE1fR1RWNng1NXo4dU9lYi15N0JGTVlQOEQ1bHBKM1Y0cDRaaXhYVnlBdTd1R1BSSzdiMEFmV3FzLXFSQjRybGV3em9iUlBZNzZZNzVFRGxVaGJpcExWZmFFOXBuWFROX2FlMkFJWmFXaWVGV2JWYjJVdUxZc01WMThTUkFaOGxwcE9JblF2Znd4T0FLQlpzMWo4TlR3UEl0R2N2d2h6RjJqTTdDYWlqbWpUQmZFRzFOeWlHWFA1TWJ4VU93Nl9VbzBtaWlpT2VJb01MWUxVWjF0ckd0SW9rd2VfTm43VFFodTlES0prZS1VQlp6aUJobjVoUHhqclktT3EzT1FOaTByNk9EN0RLSGQxRUMxZ2hpZ1RXZkFNbjcxc1psWkZQOW1yYmtRMWZ5WXV1cEJJMmh4MnRwUnl3YXFvQ1lSeGt5REtsbU5rRkFiWWxYbmxGZ1RpWXZ0bFdwdTJJUS1DNDcxV2lYQkNHWW92OHNuTkpyTmI0eTBhdEdZeW0zZUk1TkVlTjlWTjFqeTlwNThsal9pY3YwcUtQemZNRklMQjNTZlF1V21WVW9hamM1UU41NTF6VUVQTWFSN203cEV1MktBakZKNUliaHVJbzk2Nmwxa3pCcmU0ZzFjV2pYVmVZN0dJRnNOQQ?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbzVxdy1RZkFWZGIySHhpUkczYjBDVGMyRmdkLU9Kd0JnQlljUml0ZXdDdnFtcV9MdHFGQVlQTjBQdEhvajZEWENDZ3g5cDJ1MGN30gFYQVVfeXFMT2lWb19uem96RWttV1loU2dFenhtQjFzVV9NeVRQOGJZY21GcGFyTm1XRlZQWHJpSEdNc0p4YTdrM0JDc0JCXzM3cXFRNFhyRFZTUGJJaHhndg?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
           "type": "news"
         }
       ]
