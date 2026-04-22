@@ -2,9 +2,9 @@
 
 即時追蹤國立臺灣師範大學距離上次炎上已過了多久（精確到秒）。
 
-專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer)
+專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer), [中一中炎上計時器](https://github.com/mura-0721/tcfsh-burn-timer)
 
-**[→ 線上版本](https://mura-0721.github.io/ntnu-burn-timer/)**
+**[→ 線上版本](https://heyloon.github.io/ntnu-burn-timer/)**
 
 ---
 
