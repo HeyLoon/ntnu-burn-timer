@@ -1,10 +1,10 @@
-# 一中有多少天沒有被炎上計時器
+# 師大有多少天沒有被炎上計時器
 
-即時追蹤台中一中距離上次炎上已過了多久（精確到秒）。
+即時追蹤國立臺灣師範大學距離上次炎上已過了多久（精確到秒）。
 
 專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer)
 
-**[→ 線上版本](https://mura-0721.github.io/tcfsh-burn-timer/)**
+**[→ 線上版本](https://mura-0721.github.io/ntnu-burn-timer/)**
 
 ---
 
@@ -22,7 +22,7 @@
 ```
 每天 10:00（台灣時間）
   └─ GitHub Actions 執行 scripts/fetch_news.py
-       ├─ 搜尋 Google News RSS（一中炎上、一中批評、privilege…等 10 組查詢）
+       ├─ 搜尋 Google News RSS（師大炎上、台師大爭議、師大特權…等 10 組查詢）
        ├─ 過濾含關鍵字的文章，寫入 incidents.json → recent_news
        └─ 偵測到「炎上／道歉／撤展」等高信心度關鍵字
             └─ 自動更新 last_incident 日期，網頁計時器重置
@@ -93,4 +93,4 @@ GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GIT
 ---
 
 *本站僅作幽默統計用途　資料來源：Google News RSS、Threads、各大網路媒體*
-*本網站與台中一中官方無任何關聯*
+*本網站與國立臺灣師範大學官方無任何關聯*

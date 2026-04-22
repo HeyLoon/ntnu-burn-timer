@@ -1,235 +1,44 @@
 {
-  "last_incident": "2026-03-25T23:00:00+08:00",
-  "last_incident_title": "中一中宿舍暴動",
+  "last_incident": "2026-04-22T00:00:00+08:00",
+  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
   "auto_updated": false,
-  "last_updated": "2026-04-21T12:37:21.230920+08:00",
-  "incidents": [
-    {
-      "date": "2026-03-25",
-      "title": "中一中宿舍暴動",
-      "desc": "中一中舍幹廣播開嗆遭炎上！<br>太大聲太小聲去跟舍監反應🗣️🗣️會改進 不想聽可以包一包滾回🫦…滾出宿舍🔥🔥🔥👺👺👺 不是像沒爸沒媽🤏🤏🤏對老子的歌指指點點🖕🖕 老子播什麼你聽什麼🗣️🗣️🤡🤡👊👊👊👊 另外！靠杯一中版的 🗣️🗣️🗣️（哦哦哦哦哦哦哦） 🗣️🗣️🗣️🗣️🗣️靠杯一中版🗣️🗣️🗣️ （哦哦哦哦哦） 🗣️🗣️🗣️🗣️🗣️的🗣️🗣️🗣️（哦哦哦哦哦哦） 🗣️🗣️🗣️🗣️🗣️近期對於公開平台🗣️🗣️🗣️（哦哦哦哦哦哦）🗣️🗣️🗣️🗣️🗣️（沃草）🗣️🗣️🗣️🗣️🗣️（哦哦哦哦哦哦）（119）🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️",
-      "sources": [
-        {
-          "label": "Threads @wei______yz",
-          "url": "https://www.threads.com/@wei______yz/post/DWUAWrmk5hh?xmt=AQF0hGwOKMq3dp-sI-fs1LtPOlnXzu-JzHDYXmdQ3EY-aw",
-          "type": "threads"
-        },
-        {
-          "label": "Threads @tcfsh_news",
-          "url": "https://www.threads.com/@tcfsh_news/post/DWUCuJImUy2?xmt=AQF0hGwOKMq3dp-sI-fs1LtPOlnXzu-JzHDYXmdQ3EY-aw",
-          "type": "threads"
-        },
-        {
-          "label": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD-%E4%B8%AD%E8%88%8D%E5%B9%B9%E5%BB%A3%E6%92%AD%E9%96%8B%E5%97%86%E9%81%AD%E7%82%8E%E4%B8%8A-%E8%B5%B7%E5%BA%8A%E8%99%9F%E6%AD%8C%E5%96%AE-%E6%9B%9D%E5%85%89-%E7%B6%B2%E7%9C%8B%E5%82%BB-001100788.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMWxJJ6sU2q3NDOavakmS1bG0KE4idbLhYIYIfvw9wYRh2WUABfx05ztvjU02a7wlzX15xIMs-6Judddu__vVJuJliVk-NVH9vEiBiQcQKg4Wilq9Rz9xc1QGyERLrW6LbMZuQjo4BUthK7S4Pw3O3FqYbl99sg5MhIAyBWjKNCj",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6898/9403699",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5383044",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-14",
-      "title": "中一中科學班科展抄襲",
-      "desc": "科學班學生科展涉嫌抄襲遭取消繁星資格",
-      "sources": [
-        {
-          "label": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E7%A7%91%E5%B1%95%E6%B6%89%E6%8A%84%E8%A5%B2%E5%8F%B0%E5%A4%A7%E6%92%A4%E9%8A%B7%E9%8C%84%E5%8F%96%E8%B3%87%E6%A0%BC-%E4%B8%AD-%E4%B8%AD%E5%A5%B3%E5%AD%B8%E9%9C%B8%E5%88%86%E7%A7%91%E9%80%86%E8%A5%B2%E8%80%83%E5%9B%9E%E5%8F%B0%E5%A4%A7%E9%86%AB-071320581.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHolgxzgUQRg1L9r4p4jEJA33k2ZPnk1HoBZuygJLs7g3WYFbXHaTmL3R5-BXYoraQjO9u5p1VhmDrEstOy-V4xnhUDQbfup9dVxuuw753gX2feuIixNmyzq1o-lnmMQy05e6uDoiLNS1FwtrhtljESLf5Vldjj3hH2zpd5iqakI",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6925/8807268",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5074973",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/paper/1716135",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2024-05-20",
-      "title": "中一中畢旅承辦老師不當發言",
-      "desc": "一中女老師針對台中女中畢旅性騷擾事件，在行前說明會失言稱「不聽話才被喇（嘴）」，遭學生團體譴責，隨後道歉。",
-      "sources": [
-        {
-          "label": "臺中青諮會",
-          "url": "https://youth.taichung.gov.tw/DraftResolution/Detail/c0c3a1e2-0f8d-42c7-98fa-b50fffa605f2",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6898/7976900",
-          "type": "news"
-        },
-        {
-          "label": "台中女中學生會",
-          "url": "https://www.facebook.com/share/p/18WULY32ek/",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2023-04-29",
-      "title": "中一中烯環鈉海報爭議",
-      "desc": "中一中園遊會「烯環鈉」攤位涉歧視原住民",
-      "sources": [
-        {
-          "label": "公視",
-          "url": "https://news.pts.org.tw/article/635045",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6885/7139175",
-          "type": "news"
-        },
-        {
-          "label": "風傳媒",
-          "url": "https://www.storm.mg/article/4786376",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/4288928",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2022-03-11",
-      "title": "臺中一中音樂科呂老師情緒失控",
-      "desc": "中一中音樂老師爆氣",
-      "sources": [
-        {
-          "label": "YouTube @TCFSH生活",
-          "url": "https://www.youtube.com/watch?v=0Ko_0aBhGmA",
-          "type": "youtube"
-        },
-        {
-          "label": "公視",
-          "url": "https://news.pts.org.tw/article/571947",
-          "type": "news"
-        },
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6885/7139175",
-          "type": "news"
-        },
-        {
-          "label": "中時新聞網",
-          "url": "https://www.chinatimes.com/realtimenews/20220312003332-260405?chdtv",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/3859218",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2021-05-04",
-      "title": "臺中一中園遊會攤位名稱開標哥玩笑",
-      "desc": "園遊會海報畫標哥拿著槍說「肖年ㄟ，欲拍銃嘸」，遭顏寬恆私人贊助水餃一箱(?",
-      "sources": [
-        {
-          "label": "中時新聞網",
-          "url": "https://www.chinatimes.com/realtimenews/20210504003953-260407?chdtv",
-          "type": "news"
-        },
-        {
-          "label": "民視新聞網",
-          "url": "https://www.ftvnews.com.tw/news/detail/2021504W0203",
-          "type": "news"
-        },
-        {
-          "label": "TVBS",
-          "url": "https://news.tvbs.com.tw/politics/1503589",
-          "type": "news"
-        },
-        {
-          "label": "顏寬恆的貼文",
-          "url": "https://www.facebook.com/kuanheng99/posts/pfbid02AJhqC9te8J1RzJic57YPiTwsvzmRJpKG9A3mynofKNhxMgao6WmKVsGFeHtcfyWVl?ref=embed_post",
-          "type": "facebook"
-        }
-      ]
-    },
-    {
-      "date": "2016-08-29",
-      "title": "臺中一中夜店校門啟用",
-      "desc": "台中市立夜店附屬第一高級中等學校新校門啟用",
-      "sources": [
-        {
-          "label": "三立",
-          "url": "https://www.setn.com/News.aspx?NewsID=177112",
-          "type": "news"
-        },
-        {
-          "label": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E4%B8%AD%E6%96%B0%E6%A0%A1%E9%96%80%E9%81%AD%E8%AD%8F-%E5%83%8F%E9%85%92%E5%BA%97-%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%BE%84%E6%B8%85-%E5%8F%AA%E6%98%AF%E6%B8%AC%E8%A9%A6%E7%85%A7-094000488.html",
-          "type": "news"
-        },
-        {
-          "label": "關鍵評論網",
-          "url": "https://www.thenewslens.com/article/47837",
-          "type": "news"
-        },
-        {
-          "label": "想想論壇",
-          "url": "https://www.thinkingtaiwan.net/content/5711",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2012-11-23",
-      "title": "監察院通過糾正台中一中2",
-      "desc": "投機違法取得明星學校學籍　監察院糾正教育部、臺南一中、臺中一中",
-      "sources": [
-        {
-          "label": "監察院",
-          "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=6294",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "date": "2010-10-08",
-      "title": "監察院通過糾正台中一中1",
-      "desc": "臺中一中男學生性騷擾女教師案 學校處置失當 監察院糾正",
-      "sources": [
-        {
-          "label": "監察院",
-          "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=5628",
-          "type": "news"
-        }
-      ]
-    }
-  ],
+  "last_updated": "2026-04-22T10:19:10.816195+08:00",
+  "incidents": [],
   "recent_news": [
     {
-      "date": "2026-04-12",
-      "title": "讀《寫給每個人的社會學讀本》：特權該從何說起？有「霹靂力矩」是我的錯嗎？",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PMjBjTXpDbGxmRHBJQ05HQko1NVh4anR0dEpObVVKek45blE3eEZMZHJ0UVZ2cTZKUHg0dWxqZlN4WWIyY1diQUgxSXVsY2xoTG5EYw?oc=5",
+      "date": "2026-04-22",
+      "title": "女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQNExXMjFVVE9CRU5DWWxLcjlzbDMxY2Z0QXVwUjNTZ2hkN0pIM2pYTFo0djNDbGRaTFpmNFNpYVV2TnRfTzVJQzdQc1RrODJGMjZ0NElEU1Z0OXRCY3ZySGE2QmlTTXd3M2lJZ216Nno2YVZfRDAtN3dZTnBHSm1KR3ZBT1BhOVFGOEx3OXlGZXlueWxvTkR4LUhuWTMtRXBWVTFjMl9URVlZNFhxT1Zrd24wbGtoVUU5TGl2UDYyeHdDSzIyVXQ1TnBNTEd1SDNEcGZQUW0wRDRnM3JHYmxfd0tXNG9mSjRtMmdjOWRaaHdrbllwRW9lcUNlY2Z3d3lfRUtfWlNSVUx5SUhYdElxY0cxNDQ4cXB0TXBnY0pMdDdBU3FhczZWU21mcUVmaWUxLWVZcDl2ZUZocW85OGZ5RXpIbG13YzJvSHVQVm1YWFJHWnNQNHRNYzZpcWFtZ3FoaXVna1laLXFBU3NoUlFnTDlFOWViRWtUMk8xS1JmV2NlUWI3Y181T3RYS0ZCbDlCV2dGc3R0Q0FTNHJ6OGFnbUlrOWVnUUdzYTFDVVF1dFZjUTVhMmV4dVJzZ01xZWZPQV9HNVBhRzFnUFVJSjdBRnhWcExUYkdrTGxEUE9MbVNLX0l1OVpNRWVhaUlHVERfOENXNWJEajBwRzhzVE1kNVc0SW1SdkJlX3lQSEhlMW5ESGpkTldUX0Y2WW8?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-04-22",
+      "title": "奧運體操教練霸凌學生？翁士航喊冤 家長到場力挺",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0R21qTzhnSmxTeDdCTEl6eEtFRzd5RnpCWGFXN0tGSzlYNWpsS2NxMnk2UUsxcEtIY0tWTTQ1ZktTX25JS2dkMzFndVQ3TkE00gFWQVVfeXFMT0RtNDFROGdmZFRhTllDQ01MMnhycXMwRHUzc1ZNQ2VCMDNhcUJNT1NBVVFjOG9NcUNqWHJzY0hQSjB5TllVcXF4V2Vuci01SWc3MDRqdHc?oc=5",
       "source": "google.com",
       "high_confidence": false
+    },
+    {
+      "date": "2026-04-21",
+      "title": "台師大爭議連環爆 教育部公布懲處結果、霸凌及性騷教師下場曝 85",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-04-21",
+      "title": "台師大運動競技系爭議連環爆 教育部成立專案小組挨批太慢",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSk4xNjNuc3ROMmRjcDc3bHp5Vk1mMUNNOVl6bHVZYk1BNlNlTHotQW5yUUQ3QjQxWEN4VzFReHFKbGFxWnZZTGJzbEJldkZHRUpDY2tnZWotZVFmc1VucnZuZmVjY0lzdDFpeXNuTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-04-10",
+      "title": "周台英親筆道歉信讓全網炸鍋 台師大粉專緊急刪文",
+      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPMHhqOFpGUjM5ZnFlRmsyeE9iNHRJaHZQTHQtNTZ4Z0Z1dDRiai13aFNBZGJ6RVJ2dkM1bDFJdW9kUzRaNl84c0JzVUV4bFM5VnhqcnF2VTFXZHVLVFRIMlpVSk02QUdjY1BrRG5Uem1JRHFxZ0JvdDFyeUx3V3hBUVRxU0p6bDdpMHFuOTlHM0NpS01sNTU2eWtkRWZUWGVPUzNSUklLeXBoZEZLSEpQTGcxLU9RSm05MC1uQU5CZG4yV0dEWkctNF9RLW02bEJ2TXc5bnd3UnYwSGZETjBPRDcwZjNnYWtaeDc4amFZUWdnenRLeTZHMmJMQzJjVDlUYm9CYzdvaEU0WkhiUFNpN3MtajMzWXhlRlZjTnhGNUZxOFNaV0UzamJBUm1yNjN0R2dPNTVWaWRwa04wZE44TWpjcU8wd0wxMTdIZ1lxaHY0cU1hVmFJNXAxV1o0NXhjTUpmZ2cyRTVBLTdXMG8zbFVPZ1Zwc2dpM2NVd29CcFNmcXJjUjN1dFdIaXd6LUJRaXRJTU5ibXljeERhakFfUXp6UUdZVy1lX1BSNnBENjBJOThUVldzWGdaVkdva3lvNjc4UzRXeWNPajRUWWlHM1RrVy1FczdoRnZLS3JhNDQwTmw1QzRHQkFEZWt1Z2RwWFBEVzZIZHBodE56Tzk4?oc=5",
+      "source": "google.com",
+      "high_confidence": true
     }
   ]
 }
