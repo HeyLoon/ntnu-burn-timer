@@ -1,9 +1,142 @@
 {
   "last_incident": "2026-04-22T00:00:00+08:00",
-  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
+  "last_incident_title": "台師大女足抽血案延燒（道歉信與處置爭議）",
   "auto_updated": false,
   "last_updated": "2026-04-22T10:19:10.816195+08:00",
-  "incidents": [],
+  "incidents": [
+    {
+      "date": "2026-04-22",
+      "title": "台師大女足抽血案延燒",
+      "desc": "女足隊抽血爭議持續擴大，教練道歉信與校方處置內容再度引發輿論批評與討論。",
+      "sources": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPaUFNMzBUUGkxNHlWUk9ZVUhwZEFmY1RSNlBQRzMzcUFhNnNaVjk5UnpSZVJmTTFQSE1fR1RWNng1NXo4dU9lYi15N0JGTVlQOEQ1bHBKM1Y0cDRaaXhYVnlBdTd1R1BSSzdiMEFmV3FzLXFSQjRybGV3em9iUlBZNzZZNzVFRGxVaGJpcExWZmFFOXBuWFROX2FlMkFJWmFXaWVGV2JWYjJVdUxZc01WMThTUkFaOGxwcE9JblF2Znd4T0FLQlpzMWo4TlR3UEl0R2N2d2h6RjJqTTdDYWlqbWpUQmZFRzFOeWlHWFA1TWJ4VU93Nl9VbzBtaWlpT2VJb01MWUxVWjF0ckd0SW9rd2VfTm43VFFodTlES0prZS1VQlp6aUJobjVoUHhqclktT3EzT1FOaTByNk9EN0RLSGQxRUMxZ2hpZ1RXZkFNbjcxc1psWkZQOW1yYmtRMWZ5WXV1cEJJMmh4MnRwUnl3YXFvQ1lSeGt5REtsbU5rRkFiWWxYbmxGZ1RpWXZ0bFdwdTJJUS1DNDcxV2lYQkNHWW92OHNuTkpyTmI0eTBhdEdZeW0zZUk1TkVlTjlWTjFqeTlwNThsal9pY3YwcUtQemZNRklMQjNTZlF1V21WVW9hamM1UU41NTF6VUVQTWFSN203cEV1MktBakZKNUliaHVJbzk2Nmwxa3pCcmU0ZzFjV2pYVmVZN0dJRnNOQQ?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbzVxdy1RZkFWZGIySHhpUkczYjBDVGMyRmdkLU9Kd0JnQlljUml0ZXdDdnFtcV9MdHFGQVlQTjBQdEhvajZEWENDZ3g5cDJ1MGN30gFYQVVfeXFMT2lWb19uem96RWttV1loU2dFenhtQjFzVV9NeVRQOGJZY21GcGFyTm1XRlZQWHJpSEdNc0p4YTdrM0JDc0JCXzM3cXFRNFhyRFZTUGJJaHhndg?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "title": "台師大體操隊霸凌、性平爭議",
+      "desc": "體操隊教練遭控霸凌與性平爭議，台師大公布停聘與相關處置後，事件持續受到社會關注。",
+      "sources": [
+        {
+          "label": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mbm9kY0pPMXFuTmNMU2I2NEFRNUN2VVlBZUViRkZMSy1QU1I5UWRiTENrV1EybWsyNVltUVpzWXFlSzQ0bVdWbzNBeEx4ZHZtVGRrMGQ1SGZUc2pMaW5LeTI4OWfSAWpBVV95cUxNeGNvelU3VmFsRFhjODRpVWdPb19CNml4bWFNYUtfVFQtOV9WbU82Z3BlOTBFc080WExydjg5YXdnS296WmV1Rl9xSnFxU092YmZ5bU5aYVJPSy0zQ0hJQ2pHRmV2MVBMd0tn?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "鏡週刊",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nYVRsYUh6czZFdUdvWUpOMHR6NExsOGVpc2FNSWR2dkpzbWdPYXpiMEZvdmpIWXRNaWduZFB1X2xUTlAxNXQ3YWJYZFp3NFg3OGk5ZUw0cXl1czBOUnZ1UnVRaS1OTDJP0gFoQVVfeXFMTmdhVGxhSHpzNkV1R29ZSk4wdHo0TGw4ZWlzYU1JZHZ2SnNtZ09hemIwRm92akhZdE1pZ25kUHVfbFROUDE1dDdhYlhkWnc0WDc4aTllTDRxeXVzME5SdnVSdVFpLU5MMk8?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMHF2LUVqV0IzOWZwNndVZklTY3lOOGhmOS15dUpmT1JueURLUW5PS1JwUnowR3d5aUZvNFc2WHRKUEhkVm51ZWxoaHNSanR5RnlOREZaa3FhNkhFSHdPQ3o5OFpXOWlCUEJOVHo2cl80OURmMm5LRFREUUgxN2JlRXZjRXR2QlV6cmZZcDVsNzY1bHZRZEltemg0eXVNWG5RaS12MURUVlUyV0U0dGZZd0l3MHdFTVQ5c1JaNDZVbzFIcGloeUc2TlMtenM5Q0QyLWJGeG4tbS1XM1NIWFAxbkEzdEZrSm1GQkVvQVYzN1I0cE5XbkNSMnF1QXNCTUJzbzM3LXhVQm0yYlEyQ05IUjFlLTRNUHQ5SW1vd0tfTHhIZDM4dTEwZmMyYmZwMjBzYWlIX3M2XzB0R29fQ1RQZEU2VlhVamNxSy0xOFlod2ZkUEE?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "title": "女足案停聘教授仍開課爭議",
+      "desc": "女足抽血案懲處後，仍傳出停聘教授續開課，引發程序與校方執行落差爭議，教育部介入要求補正。",
+      "sources": [
+        {
+          "label": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQN1djWXZNVklfUVJIVDZJcTQ3d3A4anVvWVpwSExBcnU0TUJ1WlpkWjlrSGQwelhjemI3c1BsSks0UHRfYU81clJYTC1iNG1DSlp6R0ItbFNpTmJNdEdjRzBNSnFQRmFqV0gwVzJtUDYtMkRYSjFINEdQa3FhYldKV29pNkJFSjJ3dlI3aEdiNFNuRy1Lcl9sT0E1NlBiN2ZfY2Q4NXhCM1FRaWZoVXdRWHNGOXJEU2NEN0NVR0VZbTNueTJZQnc0bkNLdnBaU3p2MVlJLW1fOERjdlJlTUttM0o4ZEx4cndDcDVLRExFUldwYXJ6N1pHdGQ4NEh6ZjRsTTYzbHM0UFc5NXBLRVBsSDhaLTNHOWt5aTJUMkV1ZHdzNG1iS3pDMWttWFNQemVqaG40RFdrRUg?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "三立新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43VS1QNm9GdEs0bzNoU0pEeC05Z2J3dUxqMVVadTlqbkE1WWc5SzEyRk5sa2NDLXZ0U0VTMGxZd1Z4NzRXWHhGVW9lMVlQQVJZNjA5MV96ZlPSAV9BVV95cUxQUmhUb29qR1pmSkd2RVpHY2ZLVDhWRjZZbkhzTHAwbWp1dWcwaERkaThDcVBIenRDNXU5Y0sxRFk4WmpRNzFZSjF5VWYzVTU5Vk41bWUxS1pCNHY2VUJDWQ?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "上報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BTnRYQUFuVmxXc0lZTzI0U0pzM24teTAtV3RXMVI3V2cwOEI3VjdtblFmZXRhdUtYSkhWZ2w3b2hOcHQ0MW94Ui04dW9pQUlKYjNJZFpVdUs0Zw?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "title": "國科會停權處分爭議擴大",
+      "desc": "女足抽血案後續由國科會公布停權與追繳等處分，事件由校園爭議延伸至研究倫理與行政責任討論。",
+      "sources": [
+        {
+          "label": "華視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBibmhpUkNlNmgxZ2RzbFZoa1Bka2ZVY0JOd3hqUXRVWVpqWjlsWi1nMTg3VmhUb09yd1lzTndCZm50My1HS0NHN2ZRMldaMEZCOWNoY2J0WkI4d1NEVUloMzFzcS1raE80RGVvd3JZZng?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "NOWnews",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BaTNhTTZoSmxFeVlvQ2NUVy1Wam5pck01bmx2cXRMNEU3djJZWXh0Rkt3a2NFT041OFhzLWFhalFyLVRMc0NNTnlVeGnSAVJBVV95cUxNdWZJSzd4aEQxZW55dnBmUWdlZHRsX0s1T3dQZHF2V0ItN3dyREtsTi03RTBPcURLQkhqR1MxcGZMNWhWbVZsQUdHOTY2bWhGQkpR?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MUzhkZlc2ZWxCT05ORFp6U1otNEc5WHctcC0tc3hpUXl0eUMxeW1VSk1jNXFrOVN3N3RWOU9xUG1EWjdsSHVxSXlKOVZibUpG0gFWQVVfeXFMT2ozWEV3SHEtMVhVeW95NVZJa2VYTXFnYmkxZXEzLVRuRHVQeVBQb2hKMlJNZ0hzbk5QelhkNFl5ZWRXNTZ4ZHlZUU8tYmpNc18yS3Z6M0E?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "title": "女足案進入檢調偵辦",
+      "desc": "女足抽血案衍生詐欺與侵占等刑事爭議，檢調啟動搜索與約談，事件由校務調查進一步進入司法程序。",
+      "sources": [
+        {
+          "label": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2ZHNkNk5mb0hkcTBGR2RxdWR6RFhsbTdwM2FQcjR1UmNOVEg3anBxMWZRNzUxUXNBeFhqVUZERkVPT1dMR25CSUlSTUFycDNrUWNwN1FHUFp4U0RSWmJYY0JEOXk3bTE10gFuQVVfeXFMUFJtV21HR2pNT3RCcEFheG16bnFBaFYzcEt2VWtqbDJRTHlnc2lkVkVZTWppeTdubThnWUg5QU1rSDZocXM0SlRTT192RkM1R2pWN1czV2ZoOVZVdWk1cnpiXzdxUlFRbXlGUThEOUE?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "客新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wQUpPWXN6cUhqM29OTEFPM19FRnBnNG5JakZoRHFoalNsc09hVGhOcy03NHZXRWxGMDZBZ090eFZGTTY1UzQ0QU5ETVg4cnA5?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MUzhkZlc2ZWxCT05ORFp6U1otNEc5WHctcC0tc3hpUXl0eUMxeW1VSk1jNXFrOVN3N3RWOU9xUG1EWjdsSHVxSXlKOVZibUpG0gFWQVVfeXFMT2ozWEV3SHEtMVhVeW95NVZJa2VYTXFnYmkxZXEzLVRuRHVQeVBQb2hKMlJNZ0hzbk5QelhkNFl5ZWRXNTZ4ZHlZUU8tYmpNc18yS3Z6M0E?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "title": "台師大女足抽血換學分案爆發",
+      "desc": "女足學生揭露抽血換學分與受試流程爭議，教育部重罰校方與研究主持人，事件成為後續連串風波起點。",
+      "sources": [
+        {
+          "label": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LWZFQUFxcEl4aFNSV3RYSU1CbnRxcWJvdV9TMW1lSEI2ZmVxemJGdnIxXzZIaFh5aDdwRmo1bHBWcmVoOEpPYUR4dWFiN1A5Q3RCZzZ3M2RwWjU3NC1Z?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "台視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtRk41dTJ6bzBHS04wcmd3UGRhVXd2R3ZSS2NlSEVfcTFleHlsb3ZGZEs2MnROUkd4VVQ0UXlTZnU2bDBiazloVUdRT3Axdm9pajZKbVplcw?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ZndhN0NJNWJxT1REWDRWQTBXa2haa2U4THFSMERaZV80bEY5Z0NfVkVZalFMRnhOS1NLVUs1YVBybUcyU3JDSG9HYXlneDdrY2lEbEQ0QjVmR2VRVkU4Wll4UV_SAWpBVV95cUxNNzVqemJfQWlMS21HRkhtVDBuZ2pjbmxVczRrbEJCaW9WNzBabF9tRFEzckNMM3NPTHhNZTRrXzIzVXZpRTBUXzlua3NZRGFqdXgzMDRrVUF1cVE1SENBMG1rcXpvN3V2dHl3?oc=5",
+          "type": "news"
+        }
+      ]
+    }
+  ],
   "recent_news": [
     {
       "date": "2026-04-22",
@@ -32,13 +165,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSk4xNjNuc3ROMmRjcDc3bHp5Vk1mMUNNOVl6bHVZYk1BNlNlTHotQW5yUUQ3QjQxWEN4VzFReHFKbGFxWnZZTGJzbEJldkZHRUpDY2tnZWotZVFmc1VucnZuZmVjY0lzdDFpeXNuTQ?oc=5",
       "source": "google.com",
       "high_confidence": false
-    },
-    {
-      "date": "2026-04-10",
-      "title": "周台英親筆道歉信讓全網炸鍋 台師大粉專緊急刪文",
-      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPMHhqOFpGUjM5ZnFlRmsyeE9iNHRJaHZQTHQtNTZ4Z0Z1dDRiai13aFNBZGJ6RVJ2dkM1bDFJdW9kUzRaNl84c0JzVUV4bFM5VnhqcnF2VTFXZHVLVFRIMlpVSk02QUdjY1BrRG5Uem1JRHFxZ0JvdDFyeUx3V3hBUVRxU0p6bDdpMHFuOTlHM0NpS01sNTU2eWtkRWZUWGVPUzNSUklLeXBoZEZLSEpQTGcxLU9RSm05MC1uQU5CZG4yV0dEWkctNF9RLW02bEJ2TXc5bnd3UnYwSGZETjBPRDcwZjNnYWtaeDc4amFZUWdnenRLeTZHMmJMQzJjVDlUYm9CYzdvaEU0WkhiUFNpN3MtajMzWXhlRlZjTnhGNUZxOFNaV0UzamJBUm1yNjN0R2dPNTVWaWRwa04wZE44TWpjcU8wd0wxMTdIZ1lxaHY0cU1hVmFJNXAxV1o0NXhjTUpmZ2cyRTVBLTdXMG8zbFVPZ1Zwc2dpM2NVd29CcFNmcXJjUjN1dFdIaXd6LUJRaXRJTU5ibXljeERhakFfUXp6UUdZVy1lX1BSNnBENjBJOThUVldzWGdaVkdva3lvNjc4UzRXeWNPajRUWWlHM1RrVy1FczdoRnZLS3JhNDQwTmw1QzRHQkFEZWt1Z2RwWFBEVzZIZHBodE56Tzk4?oc=5",
-      "source": "google.com",
-      "high_confidence": true
     }
   ]
 }
