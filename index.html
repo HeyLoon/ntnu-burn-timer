@@ -604,7 +604,7 @@
 
     <!-- Subtitle label -->
     <div class="no-incident-label">
-      <span>沒有被 <em>炎上</em> 了</span>
+      <span id="statusSlogan">沒有被 <em>炎上</em> 了</span>
     </div>
 
     <!-- Search sources -->
@@ -708,6 +708,7 @@
     const $seconds     = document.getElementById('seconds');
     const $totalSecNum = document.getElementById('totalSecNum');
     const $status      = document.getElementById('statusText');
+    const $slogan      = document.getElementById('statusSlogan');
 
     function pad(n, len = 2) { return String(n).padStart(len, '0'); }
 
@@ -731,12 +732,15 @@
       if (days <= 3) {
         $status.className = 'info-value danger';
         $status.textContent = '🔥 炎上中！';
+        $slogan.innerHTML = '正在 <em>炎上</em> 中';
       } else if (days <= 14) {
         $status.className = 'info-value warning';
         $status.textContent = '△ 餘波盪漾';
+        $slogan.innerHTML = '<em>餘波</em> 盪漾中';
       } else {
         $status.className = 'info-value safe';
         $status.textContent = '✓ 平安無事';
+        $slogan.innerHTML = '沒有被 <em>炎上</em> 了';
       }
     }
 
