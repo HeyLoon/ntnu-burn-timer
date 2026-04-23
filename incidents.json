@@ -2,7 +2,7 @@
   "last_incident": "2026-04-22T00:00:00+08:00",
   "last_incident_title": "體操隊教練霸凌案與性平爭議",
   "auto_updated": false,
-  "last_updated": "2026-04-23T12:53:07.528759+08:00",
+  "last_updated": "2026-04-23T16:20:09+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -66,6 +66,45 @@
         {
           "label": "上報",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BTnRYQUFuVmxXc0lZTzI0U0pzM24teTAtV3RXMVI3V2cwOEI3VjdtblFmZXRhdUtYSkhWZ2w3b2hOcHQ0MW94Ui04dW9pQUlKYjNJZFpVdUs0Zw?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "title": "國語教學中心勞權事件",
+      "desc": "多名華語教師與高教工會指控台師大國語教學中心長期存在不合理聘僱與請假制度，並提出團體協商訴求。",
+      "sources": [
+        {
+          "label": "中央社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DMnJBcC0wcTBpX1hMVXhJUXBCYTQ1OFJ0Mm9TMVcteWtmVE5jRkFCYVM0ejd1RFo4ZlZTVVFIV0JQakZ3ZHA3Wl80TmZPWFVDOGR0dm14RUFLd2VYUnU0?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93SHJsRTNpN3Y0ZGRPbGpmODNxaDYyQ01xMU01R1lKc1Q0NDVTVlFncTNtd0lFd0FOZmJnaHFwWFMyWXpsejRiRDdXY0ZQX3o0WnNuQU5kTGRRUVhHUEl5SEZUZ2jSAWpBVV95cUxPTGk5czNtUE1BNmlNbUNPMWtfakw3QkU3cDBCS0pENGczVU1OTEZuR19fbldOYkk0QlVMcHJqWml6YmVDVkhxeXRPWkdjZFBOWG1lR1Z5UWNkbjhMcF9UV3lWbWI0ZW5oSVlR?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "ETtoday",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UnF5aFRyeGdsOHI1RDFld2JwUGtXeVJSSEg4Q3VHczUtVDZwWnpHSjNVMHNRbFlwU3hoR01Td1FTM29WOUpJdXozOHNjblBGRmJ0LW1KRURxc3V4WnfSAWhBVV95cUxPMXc3WkJlaWVrc3FwUE9CU21JU0VRYkF2MHBwTW1lbGlhdTYza2c5X01EZmRyMHNMWjZMdV9XRUlWMzEzRVoxTU1nTHlMcjVaVnBUQ0RCQlgtbDNwOHpGQ3pUUnc4RFloMg?oc=5",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "title": "七匹狼事件再掀討論",
+      "desc": "評論文章點名台師大對「七匹狼」爭議名單與歷史責任的處理方式，引發校史與校園性別議題再度被討論。",
+      "sources": [
+        {
+          "label": "Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pZ1ZfMkstOHlkQ0FWaVI3eEV4U2pVUTBXb2pCanZNQk5pOXlrZzgzWUNfZEpaN1NNM1RSeXpaSi16eFFFU3ZjdGt3SVBXM1NGZUNJb2QxX0xTNkE?oc=5",
+          "type": "news"
+        },
+        {
+          "label": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxQSTJGNXRKUDc1bHhXMTBBUHZ3NFM1TE96MjZaOXNCd1RXVG8zX056MG5yUzVMYUFOY2ItMC1sZ1E2T1JDaHowSjFfNFF3VUJMdVIzcHdBX2VJN1pfSXhTSWMwdUNTWWt5TDd0enplOU5Fd3BqX1U2X0tQSVdnN2N5d2xEcXYteERYZnFPckJQZ1FQbldZQko4VVVqc08teGhQcERmTnJwSW9maHoteGpmUnJycHFXdUp2c0F4N3hJVkpNb0QzRVdzOTRtV3pzZTRtSE55V0UzeDZfc2Jaall2UW5Ic2V1WGExZjM0bVBnSkwwdDhYOHkxQjZNbmo2aUExUnhyZERQX2h2WFNZbHVqcmdxMm11Tzl5cnE5SUFCcktKRzZTbTZvajFUOTRaUHNXX1ZrNGVQZW9pX21nODNQQjg5RWRUWXdhRzNiTzIyZmlCVzJ2ZndDOHZROXRnN0NDUlN6VGNsbWtoYlNtMlluX3VmbTZDTm91TTVvM1AyYkxlWDJGOTBqY0xic3JHTVl5VlhUbnRuZm5FdmRMZXpDLXZXckRyV0Q2cXlmeUU5aGpxNFAxb1lRWGwyR0kzT0FPbUNuUlNsMmVhd1JGT21XUGxoUTRNdFp1dGg3eFpEZ3dsZDMwcnE0eTNwRFRGa040cWJ2bWJlbHFES3RXSDdnb2V4dEd4ZWd3NG1GYjlQQ0k0b0hG?oc=5",
           "type": "news"
         }
       ]
@@ -135,6 +174,23 @@
           "type": "news"
         }
       ]
+    },
+    {
+      "date": "1949-04-06",
+      "title": "四六事件",
+      "desc": "1949 年 4 月 6 日，師院（今台師大）與台大學生遭大規模逮捕，成為戰後台灣校園白色恐怖的重要歷史事件。",
+      "sources": [
+        {
+          "label": "維基百科",
+          "url": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%AD%E4%BA%8B%E4%BB%B6",
+          "type": "news"
+        },
+        {
+          "label": "Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GUlhpRFlTOVFjNEY4WDB6aFlEVmRKekc4TWM1WjYwRzA3RkVTT0dvX1RZMThFUGt6UHVqQTRCZ3N6ai1xT2hTMlhtZ0cxT3Q1T2ptSkRnLVo?oc=5",
+          "type": "news"
+        }
+      ]
     }
   ],
   "recent_news": [
@@ -184,6 +240,27 @@
       "date": "2026-04-21",
       "title": "台師大運動競技系爭議連環爆 教育部成立專案小組挨批太慢",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSk4xNjNuc3ROMmRjcDc3bHp5Vk1mMUNNOVl6bHVZYk1BNlNlTHotQW5yUUQ3QjQxWEN4VzFReHFKbGFxWnZZTGJzbEJldkZHRUpDY2tnZWotZVFmc1VucnZuZmVjY0lzdDFpeXNuTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-03-20",
+      "title": "台師大華語教師提4訴求盼啟動團體協商護勞權| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DMnJBcC0wcTBpX1hMVXhJUXBCYTQ1OFJ0Mm9TMVcteWtmVE5jRkFCYVM0ejd1RFo4ZlZTVVFIV0JQakZ3ZHA3Wl80TmZPWFVDOGR0dm14RUFLd2VYUnU0?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-03-20",
+      "title": "控台師大國語教學中心違反勞基法 高教工會偕華語教師提出團體協商",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93SHJsRTNpN3Y0ZGRPbGpmODNxaDYyQ01xMU01R1lKc1Q0NDVTVlFncTNtd0lFd0FOZmJnaHFwWFMyWXpsejRiRDdXY0ZQX3o0WnNuQU5kTGRRUVhHUEl5SEZUZ2jSAWpBVV95cUxPTGk5czNtUE1BNmlNbUNPMWtfakw3QkU3cDBCS0pENGczVU1OTEZuR19fbldOYkk0QlVMcHJqWml6YmVDVkhxeXRPWkdjZFBOWG1lR1Z5UWNkbjhMcF9UV3lWbWI0ZW5oSVlR?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-02-23",
+      "title": "管仁健觀點》師大校長為何要把7匹狼名單鎖進黑箱？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pZ1ZfMkstOHlkQ0FWaVI3eEV4U2pVUTBXb2pCanZNQk5pOXlrZzgzWUNfZEpaN1NNM1RSeXpaSi16eFFFU3ZjdGt3SVBXM1NGZUNJb2QxX0xTNkE?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
