@@ -2,7 +2,7 @@
   "last_incident": "2026-05-03T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
   "auto_updated": false,
-  "last_updated": "2026-05-06T13:32:31.833960+08:00",
+  "last_updated": "2026-05-07T13:35:12.632314+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-05-06",
+      "title": "救安鼠之亂 北市推「鼠類偵防師」挨批",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82VG04ZlFXRkJzMWhJMHgxeFJaamJVVVo4cDlZX3RraXhrc0I3dm5GQThNb1J2NmJib3doNTROMldVYW10UnE0WjRMRGVwVWkzQUtXQ3FtemhpcWpWc2tR0gFkQVVfeXFMTTZfUjBIYlV5RWJDU1c4cG00WDJNQmk2RFY5MDlVemNnZkNmQmlXSFpwMVduQnVoMTcxV1E2czZqV3lOd3JHNnNMY1hNc21mUXY4WkpUVUVXX2tWcjM0dXBUUHl4ZQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-04-23",
       "title": "運動訓練權威管理和霸凌僅一線之隔 律師曝孩子1舉動恐是求救訊號",
