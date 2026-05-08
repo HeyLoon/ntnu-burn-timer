@@ -2,7 +2,7 @@
   "last_incident": "2026-05-03T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
   "auto_updated": false,
-  "last_updated": "2026-05-07T13:35:12.632314+08:00",
+  "last_updated": "2026-05-08T12:55:57.501445+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-05-08",
+      "title": "體操教練翁士航遭控霸凌 台師大：終止契約、 停聘二年",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQZ1FzSU54NHcyWGhRcnRqMkhUbnNobmVTS0pqYXNQWGh3LVpYOHBSVElNQl9wVFJaMlpMRDFlQ3V0NEZZMGMyNmFTdVloWWlvSmtBSnJySk9JdGtpa3JWV202VG5JRl9OSEo2ZUVjc2drT2I4U1Vvbkk0ZU1NZUcyRUlHQjVRZXRIU2dVQW9raXg3UEJKeG1RcE9IY2dNdmJnTDNWUHprZ2x5OUtoS3FzRlZXYV9acGhlMVA2ZXE3WkxrWWJ0ZWpZQm5oWkdCYWlQZlVTMFdCaXJfeE5qWGFuUFBHcGJYbFZnUWpUbC1tcWRLWVVBd2tWTzlJcGtna0NvMHhrS015REtVY1R6R1hEaWItb2xQY2l6WUtGWS1zQkdKLW9pcUxqUk9Sd0lFZDBLMk80NFJQWUFYOGJHWUVuWWVSdmdZcnRnLWpTWEtTbXRidmp2Y3lrZ2RkLWJoUlFSLWUwSGpGN3F2dGhRTG9qYks5NU5rYVJ4YWRCeUI3WmVlZHdFRGRiajBqeFBkQkNPeWFMT1N2Y1A3Y3hGQkpXb2JlZzRHS3J2cm1J?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-05-06",
       "title": "救安鼠之亂 北市推「鼠類偵防師」挨批",
