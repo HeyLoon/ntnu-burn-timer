@@ -2,7 +2,7 @@
   "last_incident": "2026-05-03T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
   "auto_updated": false,
-  "last_updated": "2026-05-18T14:18:24.381290+08:00",
+  "last_updated": "2026-05-19T14:11:54.575496+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-05-19",
+      "title": "教育學程開放抵免通識學分 為解缺師挨批「降格以求」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcFdEUnpRYS1CVWlrZGRqVFowa2VsMzkxNVhzVWxTRlh2NXduWUxNRFdzdkhaakd4b3J2cUFSSS1VN0c4RTdiZkY2MnhIWVd1ODBxaTN6WQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-05-18",
+      "title": "北市府鼠患「大清消」挨批做半套 台灣前進怒轟：玩數字遊戲 | 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZXFrZ1FEN0NUZWF6WHJOUjQ3NldmRHNsanhiU210Sk1uWVhJbHFXbmxjaUlKcjZmaXpKeVpocVZSenQ2U2szUTJ4LWhNd1BnVGRxUTNn?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-05-08",
       "title": "體操教練翁士航遭控霸凌 台師大：終止契約、 停聘二年",
