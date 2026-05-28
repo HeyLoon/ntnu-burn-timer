@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-05-03T00:00:00+08:00",
-  "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
-  "auto_updated": false,
-  "last_updated": "2026-05-27T14:24:57.290771+08:00",
+  "last_incident": "2026-05-27T00:00:00+08:00",
+  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
+  "auto_updated": true,
+  "last_updated": "2026-05-28T14:16:48.691677+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-05-27",
+      "title": "女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
+      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQVU80Xy1kUExOR1hDbXcwdFgyUEVPVTdOWVBIYWljek12RHBqblFobXRLejZ2WVNLNDhlQkNmc1pmQnozVHN4ZDNvc1kzbFJQb1Z1M1E3TGU1RTM0WEdiaTJGUXdBVXhSeXZsZ0RPV2JfVVdYektJT2d1MzFZbDhDem5KN3hSNnNZRUVITjhWbVdFRUExMjVFTHlFOW9nclJmcGduSWhtTE5SZU8tRUExOGpYRWk5UnpYcVlFcDVnQ1ZfbWFCaEh6ejl1aDN0WUpKcE1QYWlEaVNDYk5lOG8tVHkyNDEyR3hYSFJCXzNOejQ4Y1J0VjgzUzBHYlVLY1JXLXM4WHFxY2RxMTVoZkVRSW9nTzFzaGd3TXF1bVowd2tRLWlmTjlGTFdURjdCRTJWc01Ib25xXzVVTmZ1Mmw4Rno0SDlXak5YbkFUcW16eURMRV9YZEZqYlJnVGhMMnFVUC1TNHM0V1BzRVVsQjhxZ2lqeWJYeVhSQ0RZOHYyYzFub1R1UzltQ1lkN3RfTEdVMjFXQ0FPT1V3ZlBnaU5PTkxxMU00VG1FcHFoMUdZSE1ya2ZGbzNFNGhKam01dUIwQ0RmRGhtRUtnQ2laaXFTVW94S295S3Y1X2J6QjdjNWt5MVIyTXFBNk9XNmF6RlhBdE94bjZPekk2LXUzaTc1dlgtY0xERU9TZl9UcVAzd0ZCTU5Wbk5rUGNLRUt1Q2dVOUNMU0ZtQS1YczdqUU1UWElHWEMwRzI1Rmtr?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-05-19",
       "title": "教育學程開放抵免通識學分 為解缺師挨批「降格以求」",
