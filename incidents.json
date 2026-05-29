@@ -1,8 +1,8 @@
 {
   "last_incident": "2026-05-27T00:00:00+08:00",
   "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
-  "auto_updated": true,
-  "last_updated": "2026-05-28T14:16:48.691677+08:00",
+  "auto_updated": false,
+  "last_updated": "2026-05-29T14:18:22.090180+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-05-21",
+      "title": "體操教練翁士航遭控霸凌 台師大：終止契約、 停聘二年",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOZmFNb3JWZzBLWHZEVE5sd242b29vX2RUN2pjcjJYaFhYVUg4NWtQMmUtQmpWUmhHMnczYUF4ZTVXeExYOE5aOEhDb3NxTkdpZzBibEJVSmxOT3FrOEgtOC13alhGQjZVS29NYl82bjVIa0lyaFljM2tQcFd1WURHRnNsSlJxbVEzc3EyTEJYeFJxUUVva2Z1R1lTdkkyZDc3Z2FmYmxYMGUxeWdHSzlRS0dCMy1mLUhZSGdqVDhfQkpQbnNadE85eG5KOWFTMldrbGZXMnF1NjhDTW05cXhqZUlrTVc0QkN5NjlOV0NiRUk5MklrTXR3UElFSGxLdjR5aTI3QmtHY3Fpb3VBdHlBRDNwTC1hSjkwQ3lTTEhyQ1lFU3c3dnM1WkpmY2hJVmJuSmdLM1NfRTBXTllUZW9qLXZ0UzF4a2VyOGF4NFpBNGZoNFFWUVNCZmF3ZkhKcFQ1VXVmV2pNUjRTaDlpLWVScE1sLXNHZThwcXZjUXJlRUJjeVVtbFBLVFBVRDIzY2dBdzNCQ0VQSmxEd1FiMUZCRFpfTlBid1V3RUlVenFVMVBULWROdlh5ZEY4dF9uLVZ0a0cwWmlpSnozOXhlVVhmRC1wdWpoNV9mb1FaWUhMNzN0eGcwNnF5VWJiU0dqaE5PUV9lOVBFb28tT0oyVHFWdlZNT01kWmFpX3h1UHBXM3N5Si1Dd3ZtX0RSSnBvNTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-05-18",
+      "title": "快新聞／北市府鼠患「大清消」挨批做半套 台灣前進怒轟：玩數字遊戲",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RnVZdXc4RjVWTmhJMlgtelpLV3FJWU1oZnBZSDk1THdYdGVwY3ZMYzNVMm1CRmJQVHNTWkk3T2YtNm93MXZrNkN1LXk3VGNRYU92ZXdwVjhWczdPc3RpeA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-05-27",
       "title": "女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
