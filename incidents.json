@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-05-27T00:00:00+08:00",
-  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！ 台師大臉書急刪文",
-  "auto_updated": false,
-  "last_updated": "2026-06-07T14:32:09.440873+08:00",
+  "last_incident": "2026-06-08T00:00:00+08:00",
+  "last_incident_title": "自動偵測：師園鹽酥雞炸蟑螂！業者公開道歉了：板橋店「當天消費者全退費」 | 三立新聞網",
+  "auto_updated": true,
+  "last_updated": "2026-06-08T14:48:21.747755+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-06-08",
+      "title": "師園鹽酥雞炸蟑螂！業者公開道歉了：板橋店「當天消費者全退費」 | 三立新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83b0xWR21JZ3lDZmFOcWo2T0xlUGlpcXNPT0pORGcxRi1lQURuRl8zbFRwSWdlVWhtWmZCMmVkOFRzcWppbVdRRTdYN0dvYjRCbzZjNzNB?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-06-07",
+      "title": "足球／臺師大女足抽血爭議 校長吳正己8點聲明、向學生、 社會大眾致歉",
+      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOZXZQaGw0cmhFQlB4M2lHN09BN3hOeFhKUUJfZTFfX0JabEk3Wmx1YnlJNDVDUGV0Ums1cnFQV3NlMHdKeWx5S2lRaGFWNHM0Q0F6amR5b09XVXNHYTBtWXJmLVl6NE9QMlZnZmZ2ZWd5enRwLThROUQ5YW11S1pFU1JNUzBqaG51SWZxLW1vRDVyR0dxRzBoTllabE1uSzdycUFweWdGTk1mNkh2Yl9kTjZCTml2RDVqYlpEVTUwT25TRHNJaF9jMWhQMmZmbkF0eFMzRF8wWGoxVm1qR3dsSThhRy1QZVRadVVNV2h0MF9tdUFBdDJLb1doM0UxTmFqVXQ5a3VhcmUweVJ1el9TQWp6MHhIcXYyYlhhSVRhVmJKQk9FWjFHMkUzUE5TQlV4WUJqR056Mzd5N3VTVDFCaTIyZTJTLVRGOVRIRXdQV2xSb3d0MEZzaXNrdE5EYkVsQ0s1b2FKYjNyVU1SaDNXN0NNaFNRWkVCSkx4RDBwQTF1RTk2OVpVckRhVExpaFVHN291U013SjR2TlpWb01vSktpT3dVSUVJNGd0SUJrWjg2OWl6OEtzMzg1UGZoSEVIN20yYnNXY05ORVZyYkFEWk1TdDUyVmVTYmVPb0w4SGhxNkxKd2syb1d0TXZobFZBdUh1UW94XzhvZHFlaFpfai11MDlreUFNQ004WjlZRzdudDdkOUlyQUZydGdYbXRoSE4xMHNTamFNVGhDLUJBdEZuTk16VzI5N3dNQ0RlTjZlcXVBODVJdjVjaXVqalNMWTVuN0pXX2o5cEQtSFN1dTllejJ0RjFSSi0wVG16eUpxTS1yWjVjRlYxNFYzVTlqSUFWVkN2YkJiU2xmZVpMekZQRlNtbENqVUV0dElOblQ1SFk?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-06-03",
       "title": "Verstappen：批評我駕駛方式的人缺乏世界冠軍心態",
