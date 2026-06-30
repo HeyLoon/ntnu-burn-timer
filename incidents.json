@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-06-21T00:00:00+08:00",
-  "last_incident_title": "自動偵測：台灣Coser互惠外拍炎上！攝影師主動賠3萬7被公審，結局輿論竟大翻車",
-  "auto_updated": false,
-  "last_updated": "2026-06-29T14:53:03.469933+08:00",
+  "last_incident": "2026-06-29T00:00:00+08:00",
+  "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
+  "auto_updated": true,
+  "last_updated": "2026-06-30T14:15:52.611841+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-06-29",
+      "title": "台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
+      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxOaUpJTWtSc0FHS3RKakhld1dmRmhjQkpjYktTNVZNQmZXY2k2cFNSWHVEWHhHcjN0NHhjUF9pSkh0b3FiaC1tNVpzTFU5aUcwaEVrRjl2RG1vMjJqRF9PdHVEZjNFOHF4WVAxVmVsYmlwMnlvdWVMc0U5aVo3Y2JCUGFaUzZFbVNwc1hQNEZZd1dEVXhPR2xpVzFEM2l6OWtuQ2JPNTYyVnZRbmRHNnZSZVRiOXcydk9RbDZJc0o3endTSFVZM0FpWjJkTXNPam0wY3NkQ3hIRUZPSmFSYVVPTFVaQmRTcFkzelVFYWc0cVlYU0VjbF9JX3RkcmxNOWx0SlR6YVhFMlhUVGFPUTN6ZUlVZkJWX0ZpVDFUODRQdW5FMG5idTlNZVRXYWxmQVBDZnpSRUdOd09hOTZNaE1MUHJ6SVh4NlZmelNXX2RhVTc5Q1Z4LUtMUk8zV2JRUkM4ckl0VVRRVDg5dGQ4MVJTTFNCWnNBZDl5VG1qRWFyV2RlT1JxMy16dXFRTVdTanZ4XzVLZWhwZlI2UGUzNUFfeHBlN2pUM25GYXpXSXhueGxZQ3ZvaUdiczh0OUtJekZBdnphYm9CUWJac1VjNzl6MU1sUWNXWHk2UktUaEdwXzA0RENyS3pZNTZWUVN0NjFGVlRNeGp2ZVFGRW11UjdrMi1mck1ZdTM1T1RDckdvWGo2SnNUeFgzNFVHQ040bXNIWVNlRU1JT2x0b0p0VGFZMlVBQzYzTDMwZEhxSlY3c1Buczl6RGwwSHRMMVlMM2MwY2Rrd1Vicm1IRWFZU3R1c2N2azhCWk93TXcwLXppaw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-06-29",
+      "title": "關切彰師大性平案教長鄭英耀：制度調整記取教訓| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSzRtVEhMOS1aNE9ZM0wxd1Y5blkyaE5naW42OXJSM3hPWFdqMXlLZjR5LWtOdlY4WjdtUEYyeEZJbmVHS1UwOGkzNFRJWmhma0dvc05rbFZzZkpjODZ3?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-06-21",
       "title": "中信啦啦隊汶汶遇持刀攻擊反挨批　短今霸氣回應：不應該檢討受害者 | 娛樂 | CTWANT",
