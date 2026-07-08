@@ -2,7 +2,7 @@
   "last_incident": "2026-06-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
   "auto_updated": false,
-  "last_updated": "2026-07-07T14:12:31.025750+08:00",
+  "last_updated": "2026-07-08T13:24:51.317466+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-08",
+      "title": "員工闖開刀房砍護理師　成大醫院挨批管制鬆散",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkbDRGNzFkUm0yVDlYbWRUeGpUMGVJWEhrVWRwa0loN0NpQVRkRU5Rc2szUEUzc2Z4eHRvMTN0a3N4Z21wUFFB0gFLQVVfeXFMUGNrbVcyZ19CQkZiU3hMNy1tc2RlQUh0Q1Rqb0QwalF5a3I2dDJsRGp3aEtReWp0LWhBMm9KdVFqQS1STGtlWUY4RFpz?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-07-07",
+      "title": "女足抽血爭議跨部會討論 台師大承諾兩週內完成懲處重審",
+      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPRVk3SzU2aEZZbm4tSjN2dVZhM2EwdHNycVAxNTlBaWVrVl80RFVLdGFwWGhFcXd1cUwtbUJpVE8tZElabk9NNFBnOEpRWFNUbjdxUVF2dTRCV05ZdTdPNUZfUWtuTmdYX3ktQmVHdzZ6eUdTcXVpZm1WNnFSVk9sOXJsSjVheG11QUVGaVZKOWlCMS1yNFZVc2dhbE56Z1JKY2ZUaExodThoM0c5X1NreEpYTHYzVkRQRXlTS3BqMkZ4Vzh4X1lNY2otTWl3b05HTXoyZTBFZ2l5SmhkRkFiMXBEZ2FLOUUzSFQ3OXBTZ3NWSklRMDItN0c4alVuZWRwYm1veGJJSXdzaEt0bFlwVVE3TlMzOUdYWWtMR2N4WW8wSXBLMnRielVDSlAzSmU5V3Vtb1ZaRkRZRTVjWU94OUdPUmZoN05GVjJQREE5ejN6MHROSkp4T1VMN1pncEwtTEZsczY1UUxkREliSVM1dUtIRkRuZzJHWGJMZVhEUHNjTGxoaTFSbklyd2J3RXoyTnNSYmxmVkJqOEFhX2NDc1RQQmEya2ZLYk5uRGFTVTBDOTg2b0pGdFNNLXBfYlZ5LUx4WFN1dGxpVmtqOEdMS2V4WFZPd1FGa180MzZVMHZFTXlLVFZUYVVTdEk4c0pnQTc4cE1ERDQwZXpPcVU3WFNpZDhTUEp3dnJyVnBUMUJoSjJKclMzTkFZTTVYX3ZxcHRVb096dGF5ZHVmTE93UFBJSFVhT19Pc05BQVhPaWgtMTI3TTgxMUNGQTR4R2dCNWZFOW5OVlYydzFrdFVmckhkcEtwcC1a?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-07-06",
+      "title": "台師大教授惹議！劉錦璋遭爆濫權　All pass仍被當掉　因要教訓學生？",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnUnd6TERWN0xudWNxbmhFRjVGRVFPLWRFNUVSNnVMVlhTQ21BcF9paVdJbWdBYVUzZkhEbC1IdEpaa2xFeDNFYtIBTEFVX3lxTE03N2U3OVptQUpjTXF4endnMHpBeTVGZzhScVhHclp3RlFySnBzY1QxWkttVGcxNEZRUDN2Zk1ad29LR0tUMkVleWhxYVk?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-04",
       "title": "研究子計畫爆爭議 國科會喊卡",
