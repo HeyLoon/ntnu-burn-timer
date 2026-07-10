@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-06-29T00:00:00+08:00",
-  "last_incident_title": "自動偵測：台師大抽血案主持人露面！「未簽同意書先抽血」 陳忠慶道歉",
-  "auto_updated": false,
-  "last_updated": "2026-07-08T13:24:51.317466+08:00",
+  "last_incident": "2026-07-08T00:00:00+08:00",
+  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！台師大臉書急刪文",
+  "auto_updated": true,
+  "last_updated": "2026-07-10T14:07:57.489089+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-08",
+      "title": "女足教練周台英「165字手寫道歉信」被炎上！台師大臉書急刪文",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GU0swUGMtSXVXaWZ0RVMwQkUzdEhjc2h4ZHIxdVdKOXEzeTFVTldfb3psU0Y4dHFrSnA2Y05nVk1xWjhqaWtNX9IBTEFVX3lxTFBQQ3RDT3BMQ1h1WHAxeUZzS1Z1SWJGU2xNZlJmc0VLdTk5eVZqM3BITmgzN1U3LTdiNnhVaHhZTWt3V1VVR190X0lRTW8?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-07-08",
+      "title": "台師大校長特斯拉座車惹議後…教授夏學理告校長吳正己黑箱",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ORm82dm9jbUltYWRCS3hqdWIxTzNhUkJVVVBDNXNHdkVuQXkxVVBRQmtNQ3hjeF9wdDJUaHZSbkNOaExnTUZ30gFLQVVfeXFMTmZRRFMyQ29pQ1hfN3pwYXpCcVpQNzAyQ0lxTXRzVzZIRS1HTXNIdFlPODhTSVRSY2lHaDl2Tm9Tc2lrUDgwM0hlTHkw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-07-07",
+      "title": "「全省」優惠！胖老爹廣告挨批　公投後網諷：是中國台北啦",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBc2t6SmFxRU5Ib0MtR2YzUWF0UkJBb0dHczJ1RTdGd2VLOWJRNTJvMzFoWkEyZWR0bExRcXNNN0hxT05SVXpZ0gFLQVVfeXFMT2diWGtPUGlyeUlpTkxxU05KWUVidThSUUp5MF9kUVhrTE9DZ0xwM2JjUGpBTEt2eHgtTUdMYk1OSmNGNGxyLTJiZi1z?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-08",
       "title": "員工闖開刀房砍護理師　成大醫院挨批管制鬆散",
