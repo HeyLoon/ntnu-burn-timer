@@ -2,7 +2,7 @@
   "last_incident": "2026-07-08T00:00:00+08:00",
   "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！台師大臉書急刪文",
   "auto_updated": false,
-  "last_updated": "2026-07-13T13:41:07.071444+08:00",
+  "last_updated": "2026-07-14T12:54:21.300479+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-13",
+      "title": "張善政歧視「沒生小孩」？網驚曝國民黨的「她們」全中槍！",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtczZvRXJ5OTJzMjh5cFgxNFhIdnB3LVNPQVFaNFpkczQ5NFNIV3ljM3lEMXdVVVFJdGtyV1dTSWQwUlJTbEI40gFLQVVfeXFMT0FrU1dmQmVtTlk3T0g4Ums0OWhmZ2ItbVFMMEpJbkMxY2hBSl9FTVY4WVRVSjJMZTRxeWFYRTNpanpsUDhJdElCR1hF?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-07-06",
+      "title": "處理癌油風暴...食藥署挨批 公衛師公會：未回應民眾心理焦慮及核心需求",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82ZlFKOGpaSFo5S3FIbTZQXzg4TlEwYzZCdm9GWFhoUE4yUVdEcnRVRDlGNkNwQVZzQU1PQ1N3Q2JZSXVuWTY4Q1k2LXA5ZVFqeld30gFYQVVfeXFMTUowMDFzNnBORlgtUklKUnRlc0FDaXN0aklmeDhLd1lPNU8xZVBCY1o1OTkxWV96YWwza3JxMlNtaE90eFpsc28zSW5MaFdfSjBIX1hDUGdTbg?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-08",
       "title": "女足教練周台英「165字手寫道歉信」被炎上！台師大臉書急刪文",
