@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-07-08T00:00:00+08:00",
-  "last_incident_title": "自動偵測：女足教練周台英「165字手寫道歉信」被炎上！台師大臉書急刪文",
-  "auto_updated": false,
-  "last_updated": "2026-07-16T13:13:52.567054+08:00",
+  "last_incident": "2026-07-17T00:00:00+08:00",
+  "last_incident_title": "自動偵測：台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
+  "auto_updated": true,
+  "last_updated": "2026-07-17T13:16:42.258964+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-17",
+      "title": "台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQR24wRlJ5cXVjZVdKdHJQNjNUMHBBNl8zS3lDTU5uUmZkak5qNE8xZ1JPVHd5TzNGVEZVRUpVdUlzYUpZZVFFVE83eUtQbE96RTNwVWNRdXB6LWhoZHZicXJqdThEWUJKWVNiaW1IRzNuT19NbGhSMHFKNXo3ME1VRHgtY0d5XzZRbE1XRU5YT2pyX3BDRW1VUGl0YUFwNjdDb0VLYXV2WDhiQlZNOE9sd204YjJzSmpiQmdGWmlHTmJmeWliSm5YM1Q2Q0xaTW5RR3RfMUFVM0xGeUVsYlRSa1RBVG1reXNzbUwyMWdaWUdjNjB5bFJ0SklWWmUwbDFrc1VZbGFKTUlic2NheVZiZ1llYzltRGM0b3dyLUtsMjhZREZac2N3MkY2b1dmMkpQeHE1dUFFa1F3X2RjeGR0TXFYZkpqaG50anZfVndjUjdFcENTTkhJOUZHMUhLRDY1aUpLdDNEMXpiak93ak9QYmlUSHlLZ1NPM09sVWVwNVU?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-07-13",
       "title": "張善政歧視「沒生小孩」？網驚曝國民黨的「她們」全中槍！",
