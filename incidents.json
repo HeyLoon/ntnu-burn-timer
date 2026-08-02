@@ -2,7 +2,7 @@
   "last_incident": "2026-07-17T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
   "auto_updated": false,
-  "last_updated": "2026-08-01T13:32:10.673211+08:00",
+  "last_updated": "2026-08-02T13:33:17.189194+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-31",
+      "title": "參加美大學校長遴選高為元挨批「騎驢找馬」清大教授喊話應知所進退......",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HZzZOcHpwRVI4Zm9SdDFiNVRIYkhEdkt0WUJZSXdoWVMxbU9GeHU1c1hyVnNhN0lmNk1GQWwxQ2dKY2tMbU1rRlNiR05PeGhBY3Y1OWNUSGtjeHFBTDBvMDVianM?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-17",
       "title": "台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
