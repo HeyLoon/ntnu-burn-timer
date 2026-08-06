@@ -2,7 +2,7 @@
   "last_incident": "2026-07-17T00:00:00+08:00",
   "last_incident_title": "自動偵測：台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
   "auto_updated": false,
-  "last_updated": "2026-08-05T13:17:39.441488+08:00",
+  "last_updated": "2026-08-06T13:20:07.729868+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-07-31",
+      "title": "清大校長高為元續任後赴美選校長挨批 學界曝「行之有年」：藉此提升身價",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOSWhjMUdCYmo3TFFZUDNJUmR2bHRKWnJQUDZkUEhQY1RXNFhlXzlHVWxJemk4cFE5RThkbmU2ZjNTa01zUkdfTU9JMS1PRHRPR3hFUTUyclVHNU9XTmEteVhWLThEWmNFQmtPcHQ4WVpfMjl1VUN3ay1IaW5kNmdrdUI3T0JKMlAxUVZmRk50dy11N0w3aGQwdnU1YzFZcEhNVm04OEJDa0hXWWtZLW1qT3NiVVhJdWJ1WDJyNFlpaUx6aWNMWVYzVnd5cVJZMTBvNU56MUM2MGlhQ2VSWWtEWGNDQjZVand0eE9xa2E2TEp1aG50RVBBR3hOUFRRQzlGcGFCZU56WUY5M0NrQmJiRC1FdExydEVidXJDQU5tUHZkZmV6eXlweWs3elVBSkR4cXREeUxaLTc5MGdJU2dnN2p3UWktbDZsc21weVhrV3gxb193Tk1RMjhfd0JBWnpxVzd0VW1DMEI0aUlaQWp4eFp2a1RQY0xHc1ZiTURwbEhscWhWV3EzM3hLN2lzYy1UM0J4X1FaeXl3TkJPME0xd2R6SVRmX05pUWNMdTNJMUZ2OWdtYnZ1bkZpQk45ZzA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-31",
       "title": "清大校長高為元續任3天後赴美選校長挨批 校方說話了",
