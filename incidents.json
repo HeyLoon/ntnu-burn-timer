@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-07-17T00:00:00+08:00",
-  "last_incident_title": "自動偵測：台師大女足抽血案教練道歉 受害學生簡奇陞： 目的已達到",
-  "auto_updated": false,
-  "last_updated": "2026-08-06T13:20:07.729868+08:00",
+  "last_incident": "2026-08-06T00:00:00+08:00",
+  "last_incident_title": "自動偵測：皮膚科名醫黃禎憲診所「蔣萬安布條」遭炎上 員工揭內幕：他根本是在做功德",
+  "auto_updated": true,
+  "last_updated": "2026-08-07T12:27:40.074324+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-08-06",
+      "title": "皮膚科名醫黃禎憲診所「蔣萬安布條」遭炎上 員工揭內幕：他根本是在做功德",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPQjI2bHo2NlMtaDdOc25WNThUOHduM3FBRFQxeWtpYzR1R1VfSml2ajJCdGlfSUFyWjRWQzI5R0JmMTZPNkFDNFZsa0gwSmY1LTZSTFV4MVlHUEhEQXNLLTNTUm1qRXN3dlJfSjVudlNHMUJLbl8tUmJKTHNzZk5SMEVHVjl5a3RxZ0VmTWJJZlBGSDZyZlpsUzRYTmo2bENGZTVlcUU3VTV2TTgzalBaSGpiZFlHWnBhdEpuTVg4UEk5YTV5S1B1QnV4MXRDcWdqRXdFTm1Xc0h6d2tMTEJwRV9FOXpxUWt5bnNYaHR4QjM4Y091NExrYm1nVmZIaFlUSF9TS0xzODJPWkNfZnE3aGhzb2dGYXRqeHdXQUpxV2JUbmZhV0hjb3R4Q01vOUh4MWVUN05lOFRvWjZPZ29ZQTRMOXJDaU1UeXpPaUtURVpWRmdmS0RrWE5oSzBocHg0TjZvXzdKT1hTclFuWEp6V3VGQkRBMDJ4NTNhdFA0U0ZOclhJblVNWWFOTVJmdFpGeVBWN0dTaHBEMWNFMFBONUd6VGRCVC10bG9vWURMWG5wS0xEM01jbnk1bjV1RVNHWDJOTFlWNlo1QWZ5?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-08-05",
+      "title": "防校長落跑！清大校長挨批「已下聘還去相親」 鄭英耀：將祭「這規定」",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQUUVpdHhFSi1JMHpKREdDak44TUEyZzJpTFJTd2tpUWpZWFFlamhNcXhPekVMSlhVUWlYSmZBcmhTbHUtdVUwZDVsc2laVG5ERWdQMGtfYkZhTzNHUzFHMkRfTmtsWE5QZXdJTVRveWtGc1NsMDU2TzQwNktiV2g3MnBkdlBkUy1RN2xTWFd6SW9vZU1sdi1mblZGS2IzYVZ4LWtCS0RkOGp0aXh0QlBNdzZCQVMxQXJ3d3UtelNhbExKUE1FUmROZ3RnekphcWlQLURnY3lxb0RFUGRKNmJ6WGlBTDEwMjNEY1dXRXJrd0dUZ2RHWDgzNnF4bXM2b1YyMmFHMi02S2I2WnJyOFFSNXBpdWZQR2RlWVM4OVF2SjE5cTFqZ2ItMGNoUjVsZHM3OXpiQkk0b2c5Wl9pTWdCZDFVNXBxeGwtWFBFU3dVUEhJV3lYM1hMd3hoXzBOd3c1VXYzMFdTU0RXVWdK?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-07-31",
       "title": "清大校長高為元續任後赴美選校長挨批 學界曝「行之有年」：藉此提升身價",
