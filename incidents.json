@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-08-06T00:00:00+08:00",
-  "last_incident_title": "自動偵測：皮膚科名醫黃禎憲診所「蔣萬安布條」遭炎上 員工揭內幕：他根本是在做功德",
-  "auto_updated": false,
-  "last_updated": "2026-08-10T11:59:35.115756+08:00",
+  "last_incident": "2026-08-10T00:00:00+08:00",
+  "last_incident_title": "自動偵測：高為元道歉 清大師強調誠信問題",
+  "auto_updated": true,
+  "last_updated": "2026-08-11T11:47:45.243929+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-08-10",
+      "title": "高為元道歉 清大師強調誠信問題",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHZnQ3FnMnZNakNTQ1JqX2NHMW1CZkZlS2dFWmZ6ck9pdXBXS29nazlzTy1hZWI1bXhoVzNpU1o3V3VNalhGZXUzZ1A2ZWQ3QXpEeW5zMzlCRU9OMWFDcHhyVThrbVhpZ0VWVVBmZFV2aUtwQjlUSXNtQnpfM0plV2ZHbWdjUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-08-10",
+      "title": "高為元赴美覓職挨轟 清大教授黃貞祥：批評校長不該被扣上「背骨」帽子",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByMHh5VW1PbkFfRHlHcENJRlc1eEdSQUdQalVEWGl3RUZldzVlRGt5eUlVeTBtbDd0TnNnNVotZnk5RVZTRUdlSDRPQ2NfUW1MZ1k5dHprVGhNRGlRUHd6eGw1QnE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-10",
+      "title": "徐莉玲長子「徐子翔」逝世　遭爆冷處理後事挨批「冷血」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Q05hUHl4cGdrMk9WRVpIRWoxQ2hfRWFxZ2o2M3pPX2ZXRlN3UTAtcnBWNWxfclVpRDZ5Q25HbFFqajRxZEdwZlJGTkRlb3JNU3c1NkR1NEt3cUhPMGfSAV5BVV95cUxPekNOYVB5eHBnazJPVkVaSEVqMUNoX0VhcWdqNjN6T19mV0ZTd1EwLXJwVjVsX3JVaUQ2eUNuR2xRamo0cWRHcGZSRk5EZW9yTVN3NTZEdTRLd3FITzBn?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-08-06",
       "title": "皮膚科名醫黃禎憲診所「蔣萬安布條」遭炎上 員工揭內幕：他根本是在做功德",
