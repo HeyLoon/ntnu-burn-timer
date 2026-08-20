@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-08-10T00:00:00+08:00",
-  "last_incident_title": "自動偵測：高為元道歉 清大師強調誠信問題",
-  "auto_updated": false,
-  "last_updated": "2026-08-19T10:59:58.038025+08:00",
+  "last_incident": "2026-08-19T00:00:00+08:00",
+  "last_incident_title": "自動偵測：《日本繪師Ixy》在C108同人展舉辦蔚藍檔案色紙拍賣 挨批公然用二創賺錢大炎上",
+  "auto_updated": true,
+  "last_updated": "2026-08-20T10:59:22.375513+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-08-19",
+      "title": "《日本繪師Ixy》在C108同人展舉辦蔚藍檔案色紙拍賣 挨批公然用二創賺錢大炎上",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OMkRFODIxVlBzWW96R2stT3BmU0pBLWFxV01BQUc5NkNQc0NVelRqbXI5clc4d0ZoZ2RrakxuYmd6Q1ZvZ3k1TQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-08-14",
       "title": "美大學設「網紅」學位教內容創作　批評者質疑課程價值",
