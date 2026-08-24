@@ -2,7 +2,7 @@
   "last_incident": "2026-08-19T00:00:00+08:00",
   "last_incident_title": "自動偵測：《日本繪師Ixy》在C108同人展舉辦蔚藍檔案色紙拍賣 挨批公然用二創賺錢大炎上",
   "auto_updated": false,
-  "last_updated": "2026-08-23T11:05:17.729807+08:00",
+  "last_updated": "2026-08-24T11:06:05.057642+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-08-24",
+      "title": "搶師大戰…最嚴重師資荒 教部挨批蓋牌",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vSGpneGpack0zeFZHX1huNkZKTkpjYUNVQmFrZHNBYzczRnJCTXE3WWw2UGFQbm1jdWs2bEprSHNLd1pMeVQyV3dwQ1hDZGFnV2pTcm5R0gFWQVVfeXFMT29Iamd4alpyTTN4VkdfWG42RkpOSmNhQ1VCYWtkc0FjNzNGckJNcTdZbDZQYVBubWN1azZsSmtIc0t3Wkx5VDJXd3BDWENkYWdXalNyblE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-08-19",
       "title": "《日本繪師Ixy》在C108同人展舉辦蔚藍檔案色紙拍賣 挨批公然用二創賺錢大炎上",
