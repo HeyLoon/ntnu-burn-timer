@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-08-19T00:00:00+08:00",
-  "last_incident_title": "自動偵測：《日本繪師Ixy》在C108同人展舉辦蔚藍檔案色紙拍賣 挨批公然用二創賺錢大炎上",
-  "auto_updated": false,
-  "last_updated": "2026-09-01T15:29:41.508772+08:00",
+  "last_incident": "2026-09-01T00:00:00+08:00",
+  "last_incident_title": "自動偵測：周台英哭了！談簡奇陞被逼抽血退學、父親過世　道歉：我一生只有足球了",
+  "auto_updated": true,
+  "last_updated": "2026-09-02T14:56:11.194342+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-02",
+      "title": "長子獲選北市交換生計畫挨批 蔣萬安：憑己努力.決定不領補助 | 華視新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJZXFZUF9UekMtUHFDZGdxYWVpU3M0cFJ1aUtEMkpzS3RrcmVsVmdtdkhMTjdiRjI5bjN4LVpWZnFpUVAzZk9NUkhQbUdUWFFJS0RNckl3?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-01",
+      "title": "周台英哭了！談簡奇陞被逼抽血退學、父親過世　道歉：我一生只有足球了",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sVlNkY00yVmZibHBmV2tEMTdlQkNPSDFRX1hYdi1XZ2NLakxFRU0zLUM3VXRiYjlFamd4VUhvUmZVZzJfd1VIdtIBTEFVX3lxTE03U3p2LTZZNFhFdmZ1YW52ZGZacWxJVE1UZ1hwSVNGR2ZOMmNhTTBQVVowRVhSQVpESHhUTDVzMWJ6UktEVEdnMlloRkQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-08-24",
       "title": "搶師大戰…最嚴重師資荒 教部挨批蓋牌",
