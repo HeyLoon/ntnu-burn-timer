@@ -2,7 +2,7 @@
   "last_incident": "2026-09-01T00:00:00+08:00",
   "last_incident_title": "自動偵測：周台英哭了！談簡奇陞被逼抽血退學、父親過世　道歉：我一生只有足球了",
   "auto_updated": false,
-  "last_updated": "2026-09-04T15:04:06.149761+08:00",
+  "last_updated": "2026-09-05T14:47:46.686691+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-04",
+      "title": "蔣萬安兒涉僑生爭議！國教署否認調查　殷瑋：會議可容許不明人士出現？",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRWVNQZUdJb04tT3AwT0VOX1NGTHJOZ1lTVElnd1V3WG5uOEVmNHJJb05JdUtnQU03RTdNSG14VXpJYnVWTWxrUtIBTEFVX3lxTFB6U2hHandBcy1DQ2hmV29GQ1UzazV4bmdKTEcteHZsUVY3TVlYa19TZmo2b3o1NjV5QUItN1V2Nlh2QkExOUwwM1RTd08?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "兒獲交換生挨批特權！蔣萬安當年推甄政大也遭疑：經公開甄選 | Newtalk",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9abk5LSXgySEZraURxUVNzbHVlWmhQNjBQMF9DaDlVSFJxTjFNUDJjei1PeGlyVjk0YjZ2MDlQSnpsREFCNTVZbzhxdXF6TlBlZmdkV3l3?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "殷瑋回應蔣萬安兒交換生爭議　沈榮欽提4疑點：打糊塗仗、主張不法平等",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UNXRKeHhjMlJ2dHE1bkFPdDU4Rjcyb2MzYjlzYkVwckRhVmY4S0dPTjV2R2x3c0JFcFJZV2FLN09fUlJiUnNnT9IBTEFVX3lxTFBmcE9tNC1janNJUGRrYWlEVFBZck9qUlQ5dWIwbnFzVFQ5cUV4WldrRHJkX0RWRTZ0N0NFYXlNLVUweGlmSzlCUDBaQ0M?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-04",
       "title": "蔣萬安兒赴美交換風波未歇！陳水扁批評藍營特權 指「陳致中當1年10個月的兵」",
