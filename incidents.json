@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-01T00:00:00+08:00",
-  "last_incident_title": "自動偵測：周台英哭了！談簡奇陞被逼抽血退學、父親過世　道歉：我一生只有足球了",
-  "auto_updated": false,
-  "last_updated": "2026-09-06T14:58:18.833842+08:00",
+  "last_incident": "2026-09-07T00:00:00+08:00",
+  "last_incident_title": "自動偵測：只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
+  "auto_updated": true,
+  "last_updated": "2026-09-07T15:08:36.565758+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,48 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-07",
+      "title": "只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94VW8yelplb1NXdnYyb213eTJ2emRnYjQ0SVFLMW9sMHhIX0hsMlltMnRIaXJsVlFNaEh6MXVNMDRqbHJZSjljZ0lEUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "師大附中校長只跟大寶握手被炎上 蔣萬安：應就事論事",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WcFNsTkJQU3F2dndLNXZEdFV4UWNIUEhiaFJNT09wRTVidG1fRXJscWlHX0dSQWpBeGdIaTNrY2dhMXRuaFpIZUpoRDJSY1g4QkE?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "昔讚「蔣萬安真的帥」被挖！師大附中校長遭炎上急關臉書",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uUmkxTkhJUUhWOTJid2xOV2JwNElNWG1QWDlsMklVZGJoY3pzdjdjZS1JM2h3emFoOG14eHI5WXVmQi1QVzFVbjNOZXI2cjJMVW1z?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "師大附中校長公開示愛「蔣萬安真的很帥氣」 遭炎上緊急關閉臉書",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tdnlGZ3BHZkhJWGJ5TFh6M2FYbzdRajR0eEZ3aDVEdjBSenBMbmxnSGJfamtWSjh6Z0pjQTN2QXU5R2NuUlo0WXpxMlBTZk9ETkE?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "附中校長廖純英讚「蔣萬安很帥氣」 遭炎上急關臉書",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3hSUWh6SDJ0N0RyZ1V1OWpCWlJPemw5SXFXczZ5TXBTQ2h3LWhVUDdFS0t0OGUzdTJKVUJfYXVycURXeVJFem1JWDFtdXRRajB0RzBTMVdzcVVMVXRGZEVjcmVka0VjblFlUk9zV1ZtN215MXU2VmkwZ3dOaG9rODVhbw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "只握手蔣得立？附中校長疑差別待遇遭炎上",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMlJKZ09pNHJVdnVHVmNzTnlyTW8yYU5VVFFxVEdkeXV5RFlqS2FuS2J1ekdfUkZZUXlfMDV4Y3V0UXk5OGVrTEFtYUdSSkx1OFJfYW43U3ozdFZWOWpodzVB0gFiQVVfeXFMUDMyUkpnT2k0clV2dUdWY3NOeXJNbzJhTlVUUXFUR2R5dXlEWWpLYW5LYnV6R19SRllReV8wNXhjdXRReTk4ZWtMQW1hR1JKTHU4Ul9hbjdTejN0VlY5amh3NUE?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-04",
       "title": "蔣萬安兒涉僑生爭議！國教署否認調查　殷瑋：會議可容許不明人士出現？",
