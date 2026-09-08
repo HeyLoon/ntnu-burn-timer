@@ -1,8 +1,8 @@
 {
   "last_incident": "2026-09-07T00:00:00+08:00",
   "last_incident_title": "自動偵測：只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
-  "auto_updated": true,
-  "last_updated": "2026-09-07T15:08:36.565758+08:00",
+  "auto_updated": false,
+  "last_updated": "2026-09-08T15:02:21.976681+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-07",
+      "title": "昔讚蔣萬安帥氣...師大附中校長也遭炎上 蔣呼籲：回歸理性討論溝通",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWtSVGpxdVFwdDFGd2lNRlJrRDdsbUVMekk4QXd0SFVqcnpqZEJSbHZSdDA5Y2tyY1ZIZWdsZWJlMUxSRkVJZEtBTmwyTnpoZGRFN0xBN3FHcTN3Nm5UbzRHZ3YzUURTSG5JNjFPRDIxYjFPSnNtb09rSUdnd3dCZEVB0gFYQVVfeXFMTjJMLVFmaFV5c05ZNDBKYWFmVmRNeHVBSTdsb0tIT1dkMEUtY1ZPSm9GaWJYNkJmZDVFYV9RSk1feHhBdXB2X2hJYXBuUVRTajNvWGxDbDg4ZA?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "只和蔣得立握手「其他同學都無視」？ 師大附中校長遭炎上",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MYm5JSVFyLTNDaTRCYTNkTjZvMmNQNW9KaWZaczlHZTBhZ1oxVW1VU3RLYzlBY01oUkMwQlk0aHpEeF92Q2cydGhvUHpGZjBmTzRWVG50SlNtekxqMTRkajN3ZUtGZWdtZURnU2xTU1VYbzFHZkE?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "差別對待？附中校長爆僅與蔣萬安兒握手　爭議史遭起底",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VZm5HVl9hX3d4WHN0cW9GVEV4b3FCVGoxXzVZalBVdFFwY3A3Z3JDRnRvVE9EaFRLYkVBR21nS3g0eUd1aXI1RmJjWXXSAUxBVV95cUxPVWZuR1ZfYV93eFhzdHFvRlRFeG9xQlRqMV81WWpQVXRRcGNwN2dyQ0Z0b1RPRGhUS2JFQUdtZ0t4NHlHdWlyNUZiY1l1?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-07",
       "title": "只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
