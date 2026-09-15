@@ -2,7 +2,7 @@
   "last_incident": "2026-09-07T00:00:00+08:00",
   "last_incident_title": "自動偵測：只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
   "auto_updated": false,
-  "last_updated": "2026-09-14T15:43:34.441492+08:00",
+  "last_updated": "2026-09-15T15:26:31.704251+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-14",
+      "title": "高師大校長王政彥遭爆百場夜宴、猛鬼宿舍爭議 他駁斥：抹黑",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kVVNiRXo0SzdXUzBrSTNsbkx6NlFzY2tpMGdXWnJHRHJRYlZ1eTZjdS1zaHV1VERNVS01al9XWWVhbjVQWV9nTjVWR3oxd1U20gFWQVVfeXFMTTVNTmpUdXZmLVdkd1VqTXFpWEhncmZ1V2JTU3dzMlhBN09CY1cweURBeS1YcEE4c2llTW5KdGRoQnk4QlRNZzlsUlpXdl94bGFrSFNlVUE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-14",
+      "title": "校長「7.5月飲宴百場」？高師大怒駁：引用資料有爭議 不排除依法處理| 教育",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82MElUbi1sSkJiUUVqc2RfWmhXblJhUUE3T1V6d2x1SFlpb29MdnhxRVRlSVVVS0R2OUdHT1RQbzdhUVRvN1A1WDk4RDB0OGNhV0JWXzhqVjQwcUNl?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "兒獲交換生挨批特權！蔣萬安當年推甄政大也遭疑：經公開甄選| 政治",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZjVua3RpZEg5dGxoeWpyLXVINzc5RVR3YXFWeWJPei0yc1RGSERSaldhQWFFNlpJU3p0Uk5UUVVpZmcwNHBkRk1YZURHS1FyRTl2ZHoxbmI3QnM?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-07",
       "title": "校長稱讚帥氣遭炎上 蔣萬安：希望理性討論",
