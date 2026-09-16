@@ -2,7 +2,7 @@
   "last_incident": "2026-09-07T00:00:00+08:00",
   "last_incident_title": "自動偵測：只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
   "auto_updated": false,
-  "last_updated": "2026-09-15T15:26:31.704251+08:00",
+  "last_updated": "2026-09-16T15:25:21.476719+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-15",
+      "title": "石舫亘喊「Chinese Taipei」挨批矮化 蔣萬安力挺：她也有講「我是台灣人」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00T0JvdW53UmxIMHZoWXlkTm8tN2dVYjZuYkpEa1BreEtzOUhobktBX2RKMWJMYVN1ZUh2ZklWbkNPTTY5TmI3ZDBjamhQcXlobTJkVVozQnpUVFJVdDlmNG5ZT1dBVlAwRHfSAW9BVV95cUxNVjBqVkk1Xy1Nd3JQMldvYkJscG5TdlZLQUVYRFRyZzAzdXJPTUhMdk9lenFIcXdFamlySHhvUTZmejNJbEMxbTB0VVFaMnVnaF9WMjVBb0lEQTVodTFzekRBbUpTSUVOSk92TWg2MFk?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-13",
+      "title": "立委揭師大體操醜聞！控唐嘉鴻恩師翁士航霸凌學生、捲性平醜聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyRl9kd2Y4LWFEbkZJQ0xWak0tSkkxMUNwMi1rbEg1cy14Mk56dFppZ1dTbWRMQ1gtWjZVNGNEazY2YldHcGVReNIBTEFVX3lxTE1lSFFlUjJWYl9xb1dyM3haQW9uaURHZVNmZ3hqOFkwcHVhTkEyMFlWNHFkaXpHQ0tzZW9SeWFfYVRyblVjWV9JdFZxXzA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-14",
       "title": "高師大校長王政彥遭爆百場夜宴、猛鬼宿舍爭議 他駁斥：抹黑",
