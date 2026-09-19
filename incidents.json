@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-07T00:00:00+08:00",
-  "last_incident_title": "自動偵測：只和蔣得立握手！師大附中校長「無視女學生伸手」 疑差別待遇遭網炎上急關臉書",
-  "auto_updated": false,
-  "last_updated": "2026-09-18T15:12:47.821899+08:00",
+  "last_incident": "2026-09-16T00:00:00+08:00",
+  "last_incident_title": "自動偵測：吳斯懷觀點：蔣萬安兒子遭炎上，政治家族背景是原罪？ | 吳斯懷 | 評論",
+  "auto_updated": true,
+  "last_updated": "2026-09-19T15:09:31.539944+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-16",
+      "title": "吳斯懷觀點：蔣萬安兒子遭炎上，政治家族背景是原罪？ | 吳斯懷 | 評論",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FbXNGVHNiQkNoWWp1ZFZMa0VkNmtvaVV6M1hveW1qcmtOTzUzTEZtdHRteXN5TGdiM2lIZEp1Q3JFd1AyNEpWaHY2VnBoUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-15",
+      "title": "妻喊Chinese Taipei挨批 蔣萬安：APEC正式會籍名稱",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YemxaNEUwblYxTDlWUUMzcWhQb3UxT2x5S2pybDRGRkNiTDBEY1M2b0ZNd2oteGY3YUxUZUl3QUpUNDA3M0VxcUFWV0lvZkZPSHVrX1gxdXQ2SG1NNkNOMdIBZkFVX3lxTE43Qk1ydFRkQmw0TGlzS3lzRTJQTm05TGNDbXJIanlDeEdkZ2VVMDhnV0JzamozRGdWVTZSTU1EMC1fc0xKaktlWXdidlhDdTI1X2NaMVZ4V1NpS2J6dzBVNm83Q1JPUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-15",
       "title": "前鎮漁港81億挨批！立院民進黨團：韓國瑜任內就增至40.9億元",
