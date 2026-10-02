@@ -2,7 +2,7 @@
   "last_incident": "2026-09-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
   "auto_updated": false,
-  "last_updated": "2026-10-01T16:33:36.272485+08:00",
+  "last_updated": "2026-10-02T16:09:04.463698+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-19",
+      "title": "Threads憤怒事件簿：台灣人在氣什麼？獨家解析2025",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSm5jdUVGNDE3RzJiT0lULW1hN0pqZnUzX3EzelNQUi1tX3Y5ek5KT2FHUjVMaW9TX3BZaFo1OEdoOUhvX2FmUEplTHpxMGxWaXZmS0JFOF9hV1NJVWtiUVpIcnp4dk81Ui1n?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-29",
       "title": "《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
