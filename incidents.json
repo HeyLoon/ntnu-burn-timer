@@ -2,7 +2,7 @@
   "last_incident": "2026-09-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
   "auto_updated": false,
-  "last_updated": "2026-10-02T16:09:04.463698+08:00",
+  "last_updated": "2026-10-03T15:47:30.672338+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-02",
+      "title": "卓榮泰立院秀「洋流船員證」挨批違法 政院回擊：重點應放在審預算 | 鍾秉哲 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zSUtwdW50bmpJRTVqMUk4QXVHVEdvSHJvUmxSbU9sdkZZQzgwdDc4alRHeFZEeXFla2dzOXpUQU9zLUI5dXVTLWp0a291UQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-20",
+      "title": "劍指綠營操作！挨批「英文不好、退通告」　蔣萬安：他們負責認知作戰",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zWGVmakZ5Q2NYZ3I3c09KcXFkbXR1aEJfb3kyb09nay1nMlpnSkdpS1A5bFUwcm9KYUV6cEEyYlJRTmRoNUVVdNIBTEFVX3lxTFByb2ZaNU9xQVhvRFNpV1hOXzRjZXNkYkd5VGxfUnI1Vzc2RHBnbXoyMHBqS3hzMWFzcVF0ZGRuVkowb3BoekVQbndLWXk?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-19",
       "title": "Threads憤怒事件簿：台灣人在氣什麼？獨家解析2025",
