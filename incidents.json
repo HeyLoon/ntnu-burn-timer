@@ -2,7 +2,7 @@
   "last_incident": "2026-09-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
   "auto_updated": false,
-  "last_updated": "2026-10-03T15:47:30.672338+08:00",
+  "last_updated": "2026-10-04T15:56:10.008706+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-02",
+      "title": "卓榮泰議場秀「洋流船員證」挨批 行政院：私人手機畫面無涉公務、也無違法",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IUzBXcXlJX2NXZEdEaEJ6bzBCRVNYRkQzZkZGdFZ0VVZPOXQyM3IwTkh0ZHpudmN0MDR0Y0xrMG5pbVB6dFpWaGZqVndGbDk2RkE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-02",
       "title": "卓榮泰立院秀「洋流船員證」挨批違法 政院回擊：重點應放在審預算 | 鍾秉哲 | 新聞",
