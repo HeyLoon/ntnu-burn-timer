@@ -2,7 +2,7 @@
   "last_incident": "2026-09-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
   "auto_updated": false,
-  "last_updated": "2026-10-13T17:07:09.123116+08:00",
+  "last_updated": "2026-10-14T15:17:02.119504+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-13",
+      "title": "「彎路比直路多風景」 陳奕迅勉都大師生無懼吃虧與批評",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oOFdrSlRraHVGa24xLVFIY1Y2a3RMQVNXWnlJcE1rSGEyMlZQZW5IYVdwTDJDUlN2RE40WHR1VjB0bTVXempucEhyYVptLUc2VjAwVVRoSVFWMGx0NWdiN0Q1R2ZwSmlfZHUtNDRMd0lRcmZuSFVwV213?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-13",
+      "title": "陳奕迅與都大師生對談 勉勵別怕「蝕底」或批評 即興合唱《忘記歌詞》",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNQmFHZWpuNmRObGkza2c5ZmtBWVhlZGhteU9oVFNGTTlBM245MXJ6VS1tOG9LNV9HLV9ZeFJhMmprQlFZQ1V6VGlNMXhwVGpaZC1XQ0pkWFJQd28xcWo0blRZdHlUaDFhdmFrNzVUMkt2YnpCWG5VOXlWa3MyM3JuVXRvWDJubWdtSW81SUl4MFhjTkctM0lHZjNuOGdJZUhMb2oxV0lVNFpzaUNyOFBSeGEwbzhjbkJYUHpLSUMzUTluaTh6NDh6aGYwbUhKV2FHcDY3Y01YRVpERzMwU1VmbkZqN2FwM2Yyc0tYeGg1bUk5TUUySUtGMC1xbXgzNWY1aHVjYnJlOTl1dlFxZkdwZEhHQllGM0J4SXNUM0lnVDFfYnhveWJuOE9zbkRSWE5QeDFjV1FDRm11c1g0TVUta2hWVkxyNjRkYy1OWlh2ZFVvMjVVX1J1eTZyQVpUWmY1TTlDbjFtTGVtbXphaEZ2Z0k1UjU0UFhPZjFkbThic3NoNXF4T2JJU3lnaHAtQlNDaTNMWHVfZTF1bF9FVkxTN05tRQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-13",
+      "title": "陳奕迅到訪都大分享廣東歌情懷勉學生忠於自己不怕批評",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBbUUxUHQyWjFZRGJXSU1FS0xMeXNOZVFxRXBieGNKUm0wWG11RHRBUWtFQk1GUi1SZWtuTGFwdDdqQlZOZXgzOHNodEVhNnRlelpDWm1TdUtTZ3BCREtpT2JXTENMMUlXa0cxRDZneFZmc3dfc3hJ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-04",
       "title": "討論牆 | 立委揭師大體操醜聞！控唐嘉鴻恩師翁士航霸凌學生、捲性平醜聞",
