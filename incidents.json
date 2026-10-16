@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-29T00:00:00+08:00",
-  "last_incident_title": "自動偵測：《ＡＩ漫畫家出書》引爆繪師比中指批評大炎上 結果反而讓書籍大賣作者超開心",
-  "auto_updated": false,
-  "last_updated": "2026-10-15T15:08:45.944162+08:00",
+  "last_incident": "2026-10-14T00:00:00+08:00",
+  "last_incident_title": "自動偵測：賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
+  "auto_updated": true,
+  "last_updated": "2026-10-16T14:52:07.944019+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-14",
+      "title": "賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DMmYxUUhDeDM5eWo3R1k1WGM5MzVOLURUV1dmSlUyc0NoRmdqdlVZeWg4eUlzN2pBcXY0T2ZxQTR4b1hfcGY4RGZtU1PSAVJBVV95cUxPVVZrZ1hTYU1IbkRFZUJYYjRFYTQ0ck9BbXViN1ZXSko2anUtTGN2NnZoV25Ob1pHWWtSV05VTUZIRVNubUVBRklzeXc1aVRLMlNn?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-10-13",
       "title": "「彎路比直路多風景」 陳奕迅勉都大師生無懼吃虧與批評",
