@@ -2,7 +2,7 @@
   "last_incident": "2026-10-14T00:00:00+08:00",
   "last_incident_title": "自動偵測：賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
   "auto_updated": false,
-  "last_updated": "2026-10-20T15:18:17.561896+08:00",
+  "last_updated": "2026-10-21T15:16:53.048719+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-21",
+      "title": "洋流=認知作戰？羅世宏說法惹議 引學者批評",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzV2ZkRkZIRHFHNDBnMkp6VW1jTDJ5eEczaktZNVBWeTRsVS1ySmRLdjFYV0ZWejhDbjRwWktvX2hNcnVEWHFPUC03Vl9PNUhMOUZVdkRCZVk3a0tBM2FpVHdkZW1SVC13RnfSAW9BVV95cUxNblRmQVAzT2xrQk1yMUFJalAtT0l0UENHSV9fV1pQNGRxUXVrNm9KeUNiUDNLQVFvT3ZyaktWbU4ySGpFaWgwalpRUWpzMkZ2am1kWE03d1E2R09tNnZXU2hrMmxHbnQtSmMtNVlhTFE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-08",
       "title": "清大校長高為元赴美覓職惹議 校務會議前校友餐敘掀波",
@@ -884,13 +891,6 @@
       "date": "2026-03-20",
       "title": "控台師大國語教學中心違反勞基法 高教工會偕華語教師提出團體協商",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93SHJsRTNpN3Y0ZGRPbGpmODNxaDYyQ01xMU01R1lKc1Q0NDVTVlFncTNtd0lFd0FOZmJnaHFwWFMyWXpsejRiRDdXY0ZQX3o0WnNuQU5kTGRRUVhHUEl5SEZUZ2jSAWpBVV95cUxPTGk5czNtUE1BNmlNbUNPMWtfakw3QkU3cDBCS0pENGczVU1OTEZuR19fbldOYkk0QlVMcHJqWml6YmVDVkhxeXRPWkdjZFBOWG1lR1Z5UWNkbjhMcF9UV3lWbWI0ZW5oSVlR?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-02-23",
-      "title": "管仁健觀點》師大校長為何要把7匹狼名單鎖進黑箱？",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pZ1ZfMkstOHlkQ0FWaVI3eEV4U2pVUTBXb2pCanZNQk5pOXlrZzgzWUNfZEpaN1NNM1RSeXpaSi16eFFFU3ZjdGt3SVBXM1NGZUNJb2QxX0xTNkE?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
