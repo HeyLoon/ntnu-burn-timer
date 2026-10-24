@@ -2,7 +2,7 @@
   "last_incident": "2026-10-14T00:00:00+08:00",
   "last_incident_title": "自動偵測：賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
   "auto_updated": false,
-  "last_updated": "2026-10-23T15:11:14.963661+08:00",
+  "last_updated": "2026-10-24T15:00:21.252219+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-17",
+      "title": "客家幣2.0校園獎勵計畫 挨批增師行政負擔 | 客家電視",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZUswSlpETDl2OFlUbHZNanRMMDlOT0NyRWdBUVZDS3JQZEwxc2czT3YyWlA2VFV1Mk5NXzVaaENReWJ2S0ZsQjdZVVRiZ3BsbGhEYnlR?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-21",
       "title": "洋流=認知作戰？羅世宏說法惹議 引學者批評",
@@ -884,13 +891,6 @@
       "date": "2026-03-20",
       "title": "台師大華語教師提4訴求盼啟動團體協商護勞權| 生活",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DMnJBcC0wcTBpX1hMVXhJUXBCYTQ1OFJ0Mm9TMVcteWtmVE5jRkFCYVM0ejd1RFo4ZlZTVVFIV0JQakZ3ZHA3Wl80TmZPWFVDOGR0dm14RUFLd2VYUnU0?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-03-20",
-      "title": "控台師大國語教學中心違反勞基法 高教工會偕華語教師提出團體協商",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93SHJsRTNpN3Y0ZGRPbGpmODNxaDYyQ01xMU01R1lKc1Q0NDVTVlFncTNtd0lFd0FOZmJnaHFwWFMyWXpsejRiRDdXY0ZQX3o0WnNuQU5kTGRRUVhHUEl5SEZUZ2jSAWpBVV95cUxPTGk5czNtUE1BNmlNbUNPMWtfakw3QkU3cDBCS0pENGczVU1OTEZuR19fbldOYkk0QlVMcHJqWml6YmVDVkhxeXRPWkdjZFBOWG1lR1Z5UWNkbjhMcF9UV3lWbWI0ZW5oSVlR?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
