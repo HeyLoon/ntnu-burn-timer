@@ -2,7 +2,7 @@
   "last_incident": "2026-10-14T00:00:00+08:00",
   "last_incident_title": "自動偵測：賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
   "auto_updated": false,
-  "last_updated": "2026-10-26T15:33:37.043774+08:00",
+  "last_updated": "2026-10-27T15:30:48.276318+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-27",
+      "title": "理科師培公費專班選才惹議 有教師證反遭拒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QbGxacHFIY1RrNlJRQTF4TVdWMzdNLXU2bEdYekFkNGhSd3FQQ1VPampqUTF1aFdnTGczQS1ieUxMbEMxN1V1SktPcE95dUdQ0gFWQVVfeXFMTWZIWlpDZjJrd3VIZ1Y0R2thUnRpRDBaWXF3a3pFdmlOc1BOY1pBUVdjZUJtNlNIZmJFQl95WDFfQ2RMdkdVbjBnaXN4RVp5SkNhZFlEX2c?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "教育部預告修法 幼教調薪、代理鬆綁挨批不公",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWdlMtMjNnNUpYVk15M0xOejNiVExsT3VIZWZKNDNlS2VPdV9lMnpYbnBLMllTd01PRGJ2VmRxSGpOQTRaZFdSZDVtMmpHQ1hL0gFWQVVfeXFMTzFGekNkQWlaeFZnSzBLUUVIVFFUejhVTVFGVy1ybldIckV4WXNKSlM3ZkpiSzFVZExISERnTEI0c3p2NkdjQTRudFNfNzItQWRzeGZzbVE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-17",
       "title": "客家幣2.0校園獎勵計畫 挨批增師行政負擔 | 客家電視",
@@ -877,20 +891,6 @@
       "date": "2026-04-21",
       "title": "台師大爭議連環爆 教育部公布懲處結果、霸凌及性騷教師下場曝 85",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-21",
-      "title": "台師大運動競技系爭議連環爆 教育部成立專案小組挨批太慢",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSk4xNjNuc3ROMmRjcDc3bHp5Vk1mMUNNOVl6bHVZYk1BNlNlTHotQW5yUUQ3QjQxWEN4VzFReHFKbGFxWnZZTGJzbEJldkZHRUpDY2tnZWotZVFmc1VucnZuZmVjY0lzdDFpeXNuTQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-03-20",
-      "title": "台師大華語教師提4訴求盼啟動團體協商護勞權| 生活",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DMnJBcC0wcTBpX1hMVXhJUXBCYTQ1OFJ0Mm9TMVcteWtmVE5jRkFCYVM0ejd1RFo4ZlZTVVFIV0JQakZ3ZHA3Wl80TmZPWFVDOGR0dm14RUFLd2VYUnU0?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
