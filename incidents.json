@@ -2,7 +2,7 @@
   "last_incident": "2026-10-14T00:00:00+08:00",
   "last_incident_title": "自動偵測：賴惠員要賈永婕「純樸點」大炎上　聶永真：品味很好你管人家",
   "auto_updated": false,
-  "last_updated": "2026-10-28T16:03:00.043129+08:00",
+  "last_updated": "2026-10-29T16:12:28.249986+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-28",
+      "title": "【世新爭議連環爆】教學vs.獲利！老牌傳播名校改革掀反彈 師生憂淪「二流大學」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ic1JSM0M3dzdlWUItUGlJalhLX3AzTGpkTjROY05WNmFTLXZWdlR4SzZPZWtpd0FYOHI3cFRHbUg1ZVoySURPejhlUFdnRXFrbS1TZFBDRVJmQUs5OTFGaTN1U2hqcEJ2RUE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "客家幣2.0校園獎勵計畫 挨批增師行政負擔",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZZXJFZmZPUGxQcnBtdU5UcGtNOXllbUhVMC1oX1dtR2w3VzVIY253cWcyLTRrdW1KcXZ0c0tWMnR1RGdWdW9SQ1hiV1JFdmQtRGFNLUJYaF9aWHpXem9rWEs4WGFFUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-27",
       "title": "理科師培公費專班選才惹議 有教師證反遭拒",
@@ -879,20 +893,6 @@
       "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQNExXMjFVVE9CRU5DWWxLcjlzbDMxY2Z0QXVwUjNTZ2hkN0pIM2pYTFo0djNDbGRaTFpmNFNpYVV2TnRfTzVJQzdQc1RrODJGMjZ0NElEU1Z0OXRCY3ZySGE2QmlTTXd3M2lJZ216Nno2YVZfRDAtN3dZTnBHSm1KR3ZBT1BhOVFGOEx3OXlGZXlueWxvTkR4LUhuWTMtRXBWVTFjMl9URVlZNFhxT1Zrd24wbGtoVUU5TGl2UDYyeHdDSzIyVXQ1TnBNTEd1SDNEcGZQUW0wRDRnM3JHYmxfd0tXNG9mSjRtMmdjOWRaaHdrbllwRW9lcUNlY2Z3d3lfRUtfWlNSVUx5SUhYdElxY0cxNDQ4cXB0TXBnY0pMdDdBU3FhczZWU21mcUVmaWUxLWVZcDl2ZUZocW85OGZ5RXpIbG13YzJvSHVQVm1YWFJHWnNQNHRNYzZpcWFtZ3FoaXVna1laLXFBU3NoUlFnTDlFOWViRWtUMk8xS1JmV2NlUWI3Y181T3RYS0ZCbDlCV2dGc3R0Q0FTNHJ6OGFnbUlrOWVnUUdzYTFDVVF1dFZjUTVhMmV4dVJzZ01xZWZPQV9HNVBhRzFnUFVJSjdBRnhWcExUYkdrTGxEUE9MbVNLX0l1OVpNRWVhaUlHVERfOENXNWJEajBwRzhzVE1kNVc0SW1SdkJlX3lQSEhlMW5ESGpkTldUX0Y2WW8?oc=5",
       "source": "google.com",
       "high_confidence": true
-    },
-    {
-      "date": "2026-04-22",
-      "title": "奧運體操教練霸凌學生？翁士航喊冤 家長到場力挺",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0R21qTzhnSmxTeDdCTEl6eEtFRzd5RnpCWGFXN0tGSzlYNWpsS2NxMnk2UUsxcEtIY0tWTTQ1ZktTX25JS2dkMzFndVQ3TkE00gFWQVVfeXFMT0RtNDFROGdmZFRhTllDQ01MMnhycXMwRHUzc1ZNQ2VCMDNhcUJNT1NBVVFjOG9NcUNqWHJzY0hQSjB5TllVcXF4V2Vuci01SWc3MDRqdHc?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-21",
-      "title": "台師大爭議連環爆 教育部公布懲處結果、霸凌及性騷教師下場曝 85",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSzZiNWVjY3dxVVB4MGdWU2Zlb2I3T3lUY3lLVW9WY2c4akRRSGgtSTFISmJCbmdPWVZIWF8zNnAtc05QbGdjQnNIbm1DSUNscTU4RjJhS1gxT3UtclgwcjZDN1BHR1F2ZmxSUzgtVlNwaUo3dERIUko0aFlXUmFhdnRZUXB5alo1OWdHN3dScUlybThzeFRsSG94NFVqbzNpVTlQMU5vV2hIUEdkR21nVnRRUWtqZmY4ZzJPYXNXY241WlFFbDZyNGpBaXp0RFFGeF9OSDFLSEZBV0t1eTVnTFZZeVR1M3BMMnhxdW1HS2Q0Sk90ZjJpR0h5bHpuTEpBb1F3NjZveVFhcElPMHYybzVnSVZVS1RxWW5MMGtEaHFTQ2M3amJFU2FUVUlTT1FDWkJtYjZjdHVUMjJFdXZKSnUxQVhEZTJONEVlanlGMWltYW5Vd29VVTl0VjhrV0lMcGZYVXJ3MFRPY2p3eFZrNlU3bEt3WUN4UGRjSFZ5S1U1ZHJlSzNERW12V25PcXowUFN6SkM0OTYzQQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
     }
   ]
 }
