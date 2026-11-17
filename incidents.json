@@ -2,7 +2,7 @@
   "last_incident": "2026-11-12T00:00:00+08:00",
   "last_incident_title": "自動偵測：黃仁勳認婚外情道歉！另一半外遇還值得相信嗎？心理師揭6觀察指標",
   "auto_updated": false,
-  "last_updated": "2026-11-16T17:12:18.889218+08:00",
+  "last_updated": "2026-11-17T18:22:54.781651+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-11",
+      "title": "世新大學裁系辦、圖書館添遊戲機惹議 教育部令改善前恢復原配置",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sazVCcmhQeXN1dU0wODhZX2JQNGw4cU5SaTdpMkd5MDdnR3FCeHZsWEdNQ3hISWpUMms0bVJjTzNGVVpQVmpHcVZWWWRpMGx40gFWQVVfeXFMUDBQSExvZlFPR2NBam1WNS1qQXRzRXBBTC00S2VsbDFHa0E0ZmZJSnhlZ3J5eWdnbUNUdE5lT1hPb3ZNV3dUVGJ3VzJWZTNLOGxoWTVZSFE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-04",
       "title": "師大夜市爭議居民.店家都稱遭恐嚇",
@@ -884,13 +891,6 @@
       "date": "2026-04-20",
       "title": "國小生頻有攻擊行為「師心累提告」校處置挨批 蔣萬安：1個月解決",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwNm9qV21pMmNMQjJ6WVFWd2E0NmhwdkY0d29vUWxScm1ZczdrNjJEMmpWWDF4RVRnTHVldGp0SW8zd2hUamd0V1RPaWxEN28?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-15",
-      "title": "師大生活圈知名水晶店爆爭議！「高級只是名稱」回應惹議 Threads 引發熱議",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOaXotMUxHUmU2QlNCUnUyUy1sbFBGdUVTckRuSzRHcnFjNURiWTZrcFpSeXlsa2RnM1l3TGdJZTlUazE0MzNmOTFQY2pwTVFw?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
