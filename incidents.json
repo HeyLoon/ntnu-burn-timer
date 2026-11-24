@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-11-12T00:00:00+08:00",
-  "last_incident_title": "自動偵測：黃仁勳認婚外情道歉！另一半外遇還值得相信嗎？心理師揭6觀察指標",
-  "auto_updated": false,
-  "last_updated": "2026-11-23T18:28:35.358855+08:00",
+  "last_incident": "2026-11-24T00:00:00+08:00",
+  "last_incident_title": "自動偵測：戴捕活該被推？蔣少宏為兄弟出氣遭網友炎上 公開發520字聲明道歉了 | 民視新聞網",
+  "auto_updated": true,
+  "last_updated": "2026-11-24T20:10:13.340662+08:00",
   "incidents": [
     {
       "date": "2026-04-22",
@@ -194,6 +194,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-24",
+      "title": "戴捕活該被推？蔣少宏為兄弟出氣遭網友炎上 公開發520字聲明道歉了 | 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iUHdlMWJ1Z3BGZTc4Q04zRmhRSi11MzV2RnUycVExNHh2RWdjdDAtWkhRYW03ZEJidmhweVZFT3lDdmdBVERsUFhsU1BXeDZ2ajJ1dVNn?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-11-16",
       "title": "台灣教育挨批 鄭英耀：可能是衝著我",
@@ -884,13 +891,6 @@
       "date": "2026-04-30",
       "title": "中文系也全英語授課 政策亂象挨批",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYUltLXhyZHk5eDJYRWlxTUVUeTVzOTgtOFMydDJqNnpUdmtPVzY2WnNpTllLLVp1QkxNUE9zWVlfeXFyTEgtVGdSczJyajh2aWpBbk1pNUpmU3huczRGNFBRMkptQlE4YXBCNTlWUGt0Umt3RGU4NlRUUG1ZRF8xY1RRX09zWGZCa0RWMTVMWm1kd25xVm9ZWENGUHpHSk4tZVhDN0U0N0NYMW82b1JudXpHNy1vTFdZNWxveUplcmMyUHJLdlBqZk1BQUpFa2dnM0RpeTBsU1Q1WGx6dk85dUhrNzYxM0hkT0ZQOWczd2ktRmd0UVNGMXRMQWxqdUlFZ1R6UlhWdzFBQQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-30",
-      "title": "體操教練翁士航遭控霸凌 台師大：終止契約、 停聘二年",
-      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxNNTJ5YUMxSGVOUzVJSkM0VW9nZWNyeDRrWk1xYzhqQUhGTDFoQ0xsRTlPZjF6NVltd3FJWGhSNDZ0SERvZ3lIQjJ1VzFjeXFPWWRvMU82d2diYTZwQTdMckJRT1hCQlIxMUF3WjNKcFMwdHVLMExtN0Iwb1pHOElQcFdya3ZNd1Z1VlMwVXIxaWxTWU1acGFZRzdpV2ZtalVLNG5YYXA5Sk05UmVUTS1oNVBpU1BrVmdLMzJFYnk4YXY4SkN4aVJUc0E5aHhrbE05MmtYdXREOEdUQ19keHpDak5KemNjX3hMaGVhYWpQRGY5WXc2Q3RHQlZBYlBLQlVLNkt2UFI0a3hxV3piNjNOTVI4T3BxVXBaSHVLd1NkYkx4cDNrOTBJNW9KU1dLSWEybFlka2VrTnl0NFVnemdFTW8tTFprd1E3UnVwM3FteUJoV1UzS1BULUVHVGtaMHZUZnl1WHBHZU0zek9UYmZLcU1jaGx1dDBuZWx6RUFla3ZKc0RjM0RvbDFkbXdVbTBjYi1aR2NVWDZCcjhEMkZMLUVsR0xhOVVxY0lDQXR0TlBBN2N3N3ROOEs0YVo3UXRaWXZZOTB6RUJnTmZHTHVESDhmLXgxLW44N0prQnl5OTdhYmhvWVNnTmRHZUlhREZnSTNnMTNlbjdYMnZ1X1RWcmFkZmRoOHR0ZVNjUzZMc3l2TTFJMjJVU2FOVFlOTU1PRnZRNzZwU085Yy15dGl4dmszVkVOdEZHRXRXVUZGSTNkV2lhbmtQdEpnVXFja0tUUDlBcXEzZkRrLXJNejhEd3gwTHBuM2lh?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
